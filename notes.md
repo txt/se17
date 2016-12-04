@@ -1,3 +1,26 @@
+# lecture 1
+
+Timm's hsitory and future of se
+
+- mess
+- progarmmer closed shops.https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era
+- not requiemrents djkstra
+- no deployment
+- keep going with the data science revolution
+
+Other disrupts
+
+- green mining (weak wind)
+      - build it locally
+      - if it works, rebuild it simplier
+- the next billion (low bandwidth) strong wind
+- text-based operating systems. Tsunami
+- saturation (20 years). so no longer new domains but better use of existing resources. puff of cloud ona  distant sky.
+ 
+
+
+
+
 # Project
 
 Samples from last year:  https://docs.google.com/spreadsheets/d/1wxon-QXvDlDbkP95esby3HTEt2yZQezQRuxdCMm5lZg/edit#gid=0
