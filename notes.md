@@ -16,11 +16,11 @@ Other disrupts
 - the next billion (low bandwidth) strong wind
 - text-based operating systems. Tsunami
 - saturation (20 years). so no longer new domains but better use of existing resources. puff of cloud ona  distant sky.
- 
 
 
+# other 
 
-
+http://blogs.microsoft.com/next/2016/12/05/17-17-microsoft-researchers-expect-2017-2027/#sm.000017m4xq5wl7fafylv4d6l7ypgh
 # Project
 
 Samples from last year:  https://docs.google.com/spreadsheets/d/1wxon-QXvDlDbkP95esby3HTEt2yZQezQRuxdCMm5lZg/edit#gid=0
