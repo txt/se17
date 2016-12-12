@@ -1,7 +1,17 @@
 # lecture 1
 
+
+start with fun
+
+
+we are getting better 
+http://www.drdobbs.com/architecture-and-design/the-non-existent-software-crisis-debunki/240165910?pgno=1
+
+
 Timm's hsitory and future of se
 
+- in the beginning was hardware.
+- then boehm said : peopl!
 - mess
 - progarmmer closed shops.https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era
 - not requiemrents djkstra
