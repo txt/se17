@@ -1,3 +1,5 @@
+F=$(shell find . -name '*.md')
+
 typo:  ready
 	@- git status
 	@- git commit -am "saving"
