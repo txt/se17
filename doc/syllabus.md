@@ -235,7 +235,7 @@ responsibilities. These include:
 (Equal
 Opportunity and Non-Discrimination Policy
 Statement),
-[http://oied.ncsu.edu/oied/policies.php](http://oied.ncsu.edu/oied/policies.php)
+[https://oied.ncsu.edu/home/](https://oied.ncsu.edu/home/)
 (Office for Institutional Equity and
 Diversity),
 [http://policies.ncsu.edu/policy/pol-11-35-01](http://policies.ncsu.edu/policy/pol-11-35-01)
@@ -265,9 +265,9 @@ state and federal law and/or NC State University
 policy and will not be tolerated.
 
 + Note that, as a lecturer, I am legally required to
-**report** all such acts to the campus policy[^warn].
+**report** all such acts to the campus policy<sup>warn</sup>.
 
-[^warn]: Note that any remark you make
+<sup>warn</sup>: Note that any remark you make
 in some on-line comment tracking system like Github
 is a public document.
 So take heed of the following cautionary tale.
