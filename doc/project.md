@@ -39,6 +39,13 @@ Lets find out. In this work you will:
 |     | lightning talk         | 10 minute briefing (20 slides * 30 seconds each+ 5 mins questions) to class on your problem)  **must** present your results and recommendations|
 |apr30|software analytics      | report on patterns in comments and commits in Gihub projects|
 
+
+How to find a community with a X:
+
+1. Do whatever you want.
+2. Or, think about the classes you did last semester. Think about the organization of that subject, the students who tool that subject the content of that subject, who might use the content of that subject in the real world. Would any of those people have particular kinds of problems either in taking that particular subject, or in using the concepts of that subject in the real world? Can you solve those problems? 
+
+
 ## Rules
 
 - Teams are assign randomly. Why?
@@ -105,16 +112,8 @@ of IEEE](https://www.ieee.org/conferences_events/conferences/publishing/template
     - For example, for anything with user input, consider the Subline Text editor. It has a
   [nifty package manager](https://packagecontrol.io/) that allows you to switch between packagages, even at runtime (makes experimentation easy).	     
 
+## Tips
 
-### Create an Organziation in Github
-
-One organization has many repositories.
-
-### Use ShareLatex
-
-Remember:  push the big blue button.
-
-Link the sharelatex project to a repo in your organization
 
 
 

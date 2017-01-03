@@ -15,9 +15,22 @@ needed for Project1 (due end of January).
 
 ## Github
 
+
+### Create an Organziation in Github
+
+One organization has many repositories.
+
+### Use ShareLatex
+
+Remember:  push the big blue button.
+
+Link the sharelatex project to a repo in your organization
+
+
+
 ### Github Isses and Labels
 
-## Resaerch
+## Research
 
 ### Finding Choice
 
