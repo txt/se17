@@ -69,16 +69,16 @@ between each other for that project.
 Grades will be assigned as follows:
 
 - Spot quizes, misc (quick) homeworks, 5 marks.
-- Mid-term: Tuesday, March15, 15 marks
+- Mid-term: Tuesday, March2, 15 marks
 - Final exam: 25 marks
 - Project: 55 marks,  
 
 |due|marks|notes|
 |---|-----|-----|
-|Feb1|5| Initial project description|
-| Mar1|10| Progress report|
-| Apr1|25| (1) a talk to the class  for 10 marks;  (2) a report document  for 15 marks|
-| May1|15| A report of the form shown [here](https://github.com/CSC510-2015-Axitron/project2)|
+|Jan31|5| Initial project description|
+| Feb28|10| Progress report|
+| Mar31|25| (1) a talk to the class  for 10 marks;  (2) a report document  for 15 marks|
+| Apr28|15| A report of the form shown [here](https://github.com/CSC510-2015-Axitron/project2)|
 
 The following grade scale will be used: 
 
