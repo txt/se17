@@ -26,7 +26,7 @@ Lets find out. In this work you will:
 
 
 |when|what| notes|
-|----+----+------|
+|----|----|------|
 |jan31|find your users         |a community of people who have a problem with X|
 |     |document a  **baseline**| document what problems people have with X           |
 |     |conduct research        |look into  how other people have solved X (using software)|
