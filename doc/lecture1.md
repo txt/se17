@@ -13,25 +13,6 @@ Before we get down to SE theory, our first
 lectures will explore the tools and techniques
 needed for Project1 (due end of January).
 
-## Github
-
-
-### Create an Organziation in Github
-
-One organization has many repositories.
-
-### Use ShareLatex
-
-Remember:  push the big blue button.
-
-Link the sharelatex project to a repo in your organization
-
-
-
-### Github Isses and Labels
-
-Github issues: [tutorial](https://guides.github.com/features/issues/)
-and [A simple styleguide for tagging Github issues](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/).
 
 ## Research
 
@@ -45,9 +26,9 @@ Exercise1:
      - 5 minites: pair with your neighbor, share ideas, try to find better ones
      - 8 minutes: around the room "what are our best ideas?"
 
- Exercise2:
+Exercise2:
  
- - Problem:
+- Problem: "how to find a car park"
 
 ### Reading the literature
 
@@ -80,6 +61,26 @@ Methodology:
 
 (R.C. Bryce, A. Cooley, A. Hansen, N. Hayrapetyan,
 [A one year empirical study of student programming bugs](http://dx.doi.org/10.1109/FIE.2010.5673143) in Frontiers in Education Conference (FIE), 2010. )
+
+## Github
+
+
+### Create an Organziation in Github
+
+One organization has many repositories.
+
+### Use ShareLatex
+
+Remember:  push the big blue button.
+
+Link the sharelatex project to a repo in your organization
+
+
+
+### Github Isses and Labels
+
+Github issues: [tutorial](https://guides.github.com/features/issues/)
+and [A simple styleguide for tagging Github issues](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/).
 
 
 ## Data Collection Tools
