@@ -46,9 +46,12 @@ practices throughout the semester.
 </td>
 <td valign=top  xwidth="100px">
 
+<a href="doc/lecture1.md">L1</a><br>
+<a href="doc/lecture1.md">L0</a>
 
 </td><td valign=top xwidth="100px">
 
+<a href="doc/project.md">project</a>
 </td><td valign=top xwidth="100px">
 
 </tr></table>
