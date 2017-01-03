@@ -28,3 +28,6 @@ prep:
 
 prepping:
 	@$(foreach f,$F, echo "# updating $f ... "; gawk -f etc/headers.awk $f > .tmp; mv .tmp $f;  )
+
+debug:
+	echo $F
