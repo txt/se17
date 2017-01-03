@@ -59,7 +59,7 @@ by Roger Pressman (optional).
 
 Student will sit exams to determine their understanding of lecture material.
 
-<a href="https://computer-engineer-barbie.herokuapp.com/"><img width=400 align=right src="img/barbieGithub.png"></a>
+<a href="https://computer-engineer-barbie.herokuapp.com/"><img width=400 align=right src="../img/barbieGithub.png"></a>
 Students will work in groups of three using Github
 to test their ability to work in groups to deliver software.
 
