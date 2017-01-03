@@ -21,6 +21,7 @@ practices throughout the semester.
 
 
 
+<center>
 <table border=0 align=center>
 <tr>
 <td align=center><b>News
@@ -51,4 +52,4 @@ practices throughout the semester.
 </td><td valign=top xwidth="100px">
 
 </tr></table>
-
+</center>
