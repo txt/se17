@@ -26,7 +26,7 @@ timm:
 prep:
 	@$(foreach f,$F, if [ "etc/header" -nt "$f" ]; then echo "# updating $f ... "; gawk -f etc/headers.awk $f > .tmp; mv .tmp $f; fi; )
 
-prepping:
+prepall:
 	@$(foreach f,$F, echo "# updating $f ... "; gawk -f etc/headers.awk $f > .tmp; mv .tmp $f;  )
 
 debug:
