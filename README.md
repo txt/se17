@@ -24,7 +24,7 @@ practices throughout the semester.
 <center>
 <table border=0 align=center>
 <tr>
-<td align=center><b>News
+<td align=center><b>Misc
 <img width=65 src="img/200x1.png"></b>
 </td>
 <td align=center><b>Lectures
