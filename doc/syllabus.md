@@ -142,6 +142,18 @@ experience in this class. Once you reach three
 unexcused absences, each additional absence will
 reduce your attendance grade by 10%.
 
+As to what is an "excused" class, see the list at 
+[https://policies.ncsu.edu/regulation/reg-02-20-03](https://policies.ncsu.edu/regulation/reg-02-20-03):
+
+- Anticipated ansences:
+     - Representing an official university function (e.g. athletics)
+     - Required court attendance as certified by the Clerk of Court.
+     - Students will be allowed a minimum of two excused absences per academic year for religious observances 
+     - Required military duty as certified by the student's commanding officer.
+- Unanticipated absences. Examples include:
+     - Short-term illness or injury
+     - Death or serious illnesses in the family when documented appropriately. 
+
 #### Attendance in Week1
 
 Regarding attendance in week one,
