@@ -9,7 +9,7 @@ _______
 
 
 
-# SYLLABUS 
+# Syllabus 
 
 <img align=right width=400
 src="https://d2fkddr0p2jbv6.cloudfront.net/render/standard/4806648449357858/mug15oz-whi-z1-t-did-you-check-the-syllabus.png">
@@ -61,7 +61,7 @@ by Roger Pressman (optional).
 
 Student will sit exams to determine their understanding of lecture material.
 
-<a href="https://computer-engineer-barbie.herokuapp.com/"><img width=400 align=right src="../img/barbieGithub.png"></a>
+<!-- a href="https://computer-engineer-barbie.herokuapp.com/"><img width=400 align=right src="../img/barbieGithub.png"></a --->
 Students will work in groups of three using Github
 to test their ability to work in groups to deliver software.
 
@@ -72,15 +72,21 @@ Grades will be assigned as follows:
 
 - Spot quizes, misc (quick) homeworks, 5 marks.
 - Mid-term: Tuesday, March2, 15 marks
-- Final exam: 25 marks
-- Project: 55 marks,  
+- Final exam: 20 marks
+- Participation in evaluations: 10 marks (one per evaluation)
+      - Students will be issued 10 "chits" with 10 magic numbers
+      - When they perform any evaluation, they hand over the "chit"
+      - When students hand in their Jan31 and Mar31 reports, they list
+        the chit numbers of the students present for their evals.
+- Project: 50 marks,  
 
 |due|marks|notes|
 |---|-----|-----|
-|Jan31|5| Initial project description|
-| Feb28|10| Progress report|
-| Mar31|25| (1) a talk to the class  for 10 marks;  (2) a report document  for 15 marks|
-| Apr28|15| A report of the form shown [here](https://github.com/CSC510-2015-Axitron/project2)|
+|Jan31|10| Initial project description:<br>- Report on related work (5 marks)<br> - 5min talk to class (5marks)|
+| Feb28|10| Progress report:<br> - Much Github activity from all developers (5marks).<br>- Demos to lecturer or tutor (5marks)|
+| Mar31|20| Final report:<br>- 10min Talk to the class  (10 marks);  <br>- A report document  (10 marks). See [example](https://goo.gl/3C82cj)|
+| Apr28|10| A report of the form shown [here](https://github.com/CSC510-2015-Axitron/project2)|
+
 
 The following grade scale will be used: 
 
