@@ -30,6 +30,9 @@ Link the sharelatex project to a repo in your organization
 
 ### Github Isses and Labels
 
+Github issues: [tutorial](https://guides.github.com/features/issues/)
+and [A simple styleguide for tagging Github issues](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/).
+
 ## Research
 
 ### Finding Choice
@@ -51,6 +54,32 @@ Exercise1:
 Dancing through the years with google scholar
 
 - Case study "problems with parking"
+
+Places to search for papers:
+
+- IEEE Xplore
+- ACM Digital Library
+- Google Scholar
+
+Note that these search engines have "cited by" fields so if you find a good paper, you can run forward in the literature looking for subsequent studies.
+
+Pruning rules (heuristic, take with a grain of salt):
+
+- Recent better than past
+- Highly cited better than not
+
+Methodology:
+
+- To grab an initial set of documents, what were your search terms? How many documents did it match (hint: usually 100s to 1000s)
+- To prune the intial set , what were your strategies (extra search terms? quick scans of abstracts? number of citation counts? restrictions by year?)
+- After pruning, how many docs did you have (hint, usually dozens)?
+- How did you study the pruned docs (e.g. what particular questions did you ask of each document? how did you collate the results)?
+- What sanity checks were applied?
+         - Did the literature review find known key articles in the field
+         - Potentially, is it possible to operationalize fixed to the identified problems? e.g. lack of domain knowledge very hard to operationalize; not closing matching brackets (easier to operationalize). Recall the Royce results: 22% of their problems were deep semantic while the result were simple logic and syntax problems.
+
+(R.C. Bryce, A. Cooley, A. Hansen, N. Hayrapetyan,
+[A one year empirical study of student programming bugs](http://dx.doi.org/10.1109/FIE.2010.5673143) in Frontiers in Education Conference (FIE), 2010. )
 
 
 ## Data Collection Tools

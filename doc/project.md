@@ -7,6 +7,8 @@
 
 _______
 
+<img align=right width=500 src="http://se16.unbox.org/_img/girlbot.jpg">
+
 # Project
 
 _"Every feature is an experiment."_   
@@ -22,7 +24,12 @@ _"Sure, you can code. But can you engineer?"_
 + Do you know about configuration and version control?
 + Can you deliver enough  working software, on time, avoiding superflous details?
  
-Lets find out. In this work you will:
+Lets find out.
+
+<br clear=all>
+
+
+In this work you will:
 
 
 |when|what| notes|
@@ -82,7 +89,11 @@ of IEEE](https://www.ieee.org/conferences_events/conferences/publishing/template
      - "Can't find anyone who has done anything like this before." 
      - Yeah, right...
 - Group breakdown reproted to me with deadlines less than 1 week away
-    - The time to fix management issues is BEFORE deadline pressure hits
+     - The time to fix management issues is BEFORE deadline pressure hits
+- Using NCSU github
+     - Don't. Use public github
+- Using Private repos
+     - Dont.     
 - Github commits, comments are very rare, only from one person
      - "But we do pair programming, all typing together".
      - Really, all the time? Every day of the week?
@@ -112,7 +123,6 @@ of IEEE](https://www.ieee.org/conferences_events/conferences/publishing/template
     - For example, for anything with user input, consider the Subline Text editor. It has a
   [nifty package manager](https://packagecontrol.io/) that allows you to switch between packagages, even at runtime (makes experimentation easy).	     
 
-## Tips
 
 
 
