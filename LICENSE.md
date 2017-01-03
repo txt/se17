@@ -1,7 +1,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[home](http://tiny.cc/se17) | 
 [syllabus](https://github.com/txt/se17/blob/master/doc/syllabus.md) | 
 [submit](http://tiny.cc/se17give) |
-[chat](https://se17.slack.com/) 
+[chat](https://se17.slack.com/)  | 
 [copyright](https://github.com/txt/se17/blob/master/LICENSE.md) &copy;2017, tim&commat;menzies.us<br>
 [<img width=900 src="https://raw.githubusercontent.com/txt/se17/master/img/se17.png">](http://tiny.cc/se17)   <br>
 
