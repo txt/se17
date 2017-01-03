@@ -265,9 +265,9 @@ state and federal law and/or NC State University
 policy and will not be tolerated.
 
 + Note that, as a lecturer, I am legally required to
-**report** all such acts to the campus policy<sup>warn</sup>.
+**report** all such acts to the campus policy<sup>1</sup>.
 
-<sup>warn</sup>: Note that any remark you make
+<sup>1</sup>: Note that any remark you make
 in some on-line comment tracking system like Github
 is a public document.
 So take heed of the following cautionary tale.
