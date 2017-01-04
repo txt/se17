@@ -83,6 +83,7 @@ Simple shot (managing screen snaps)
  
 Expense tracker (managing day to day expenses)
 - best balanced approach (literature + user studies)
+- Note: they did **not** ask users what they wanted; instead, they **watched** what they did and tracked standard errors
 - https://github.com/sandz-in/csc510_group_l/blob/master/feb1/ExpenseSharing.pdf
 
 ## How to find a community with a problem with X:
