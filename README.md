@@ -44,7 +44,8 @@ practices throughout the semester.
 <tr>
 <td valign=top  xwidth="100px">
 
-<a href="https://geneticmail.com/scott/library/text/seven-languages-in-seven-weeks_p1_0.pdf">7 languages</a>
+<a href="http://unbox.org/doc/Seven%20More%20Languages%20in%20Seven%20Weeks.pdf">Languages2</a>
+<a href="http://unbox.org/doc/Seven%20Languages%20in%20Seven%20Weeks%20A%20Pragmatic%20Guide%20to%20Learning%20Programming%20Languages.pdf">Languages1</a>
 </td>
 <td valign=top  xwidth="100px">
 
