@@ -60,12 +60,10 @@ which of those three (if any) should actually be used.
 |     | Lightning talk     |10 minute briefing (20 slides * 30 seconds each) to class on your problem)  **must** present your results and recommendations|
 |Apr30|Software analytics  |Report on project bad smells (inferred from Gihub activity). For more on this part, see [here](badsmells.md)|
 
-Note that there is **no** coding in January, and **no** user trials in Feburary or April.
-
-How to find a community with a X:
-
-1. Do whatever you want.
-2. Or, think about the classes you did last semester. Think about the organization of that subject, the students who tool that subject the content of that subject, who might use the content of that subject in the real world. Would any of those people have particular kinds of problems either in taking that particular subject, or in using the concepts of that subject in the real world? Can you solve those problems? 
+Note that:
+- there is no coding in January, 
+- no user trials in Feburary or April.
+- the April work is very different to Jan, Feb, March
 
 ## Example Jan Project results (from last year)
 
@@ -86,6 +84,12 @@ Simple shot (managing screen snaps)
 Expense tracker (managing day to day expenses)
 - best balanced approach (literature + user studies)
 - https://github.com/sandz-in/csc510_group_l/blob/master/feb1/ExpenseSharing.pdf
+
+## How to find a community with a X:
+
+1. Do whatever you want.
+2. Or, think about the classes you did last semester. Think about the organization of that subject, the students who tool that subject the content of that subject, who might use the content of that subject in the real world. Would any of those people have particular kinds of problems either in taking that particular subject, or in using the concepts of that subject in the real world? Can you solve those problems? 
+
 
 ## Rules
 
