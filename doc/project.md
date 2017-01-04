@@ -65,11 +65,15 @@ Note that:
 - no user trials in Feburary or April.
 - the April work is very different to Jan, Feb, March
 
-## Example Jan Project results (from last year)
+## What to hand in
 
-If this sounds too freaking hard, then relax. The Jan report is just a few pages. Takes some work, but an easy first step.
+### Jan 
 
-For example:
+Give a talk, submit the slides and a 5+ page  report
+
+Note that the Jan report is just a few pages. Takes some work, but an easy first step.
+
+For example, here are some of the reports from last year.
 
 Clipit (better copy paste tools) 
 - Extensive analysis of the literature (great) 
@@ -85,6 +89,15 @@ Expense tracker (managing day to day expenses)
 - best balanced approach (literature + user studies)
 - Note: they did **not** ask users what they wanted; instead, they **watched** what they did and tracked standard errors
 - https://github.com/sandz-in/csc510_group_l/blob/master/feb1/ExpenseSharing.pdf
+
+### Feb 
+
+All you need to submit here are links to some log pages in Github plus a
+few pages describing your March evaluation plan.
+
+### March
+
+Give a talk, submit the slides and a 6+ page  report
 
 ## How to find a community with a problem with X:
 
