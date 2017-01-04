@@ -124,7 +124,7 @@ ____
 Tim Menzies <img src="http://www.csc.ncsu.edu/enews/images/1770.jpg" align=right width=100>
 
 + Github id: timm
-+ Office Hours: Tuesday, 3:00-4:30 and by request
++ Office Hours: Tuesday, 2:30-4:30 and by request
 + Location of Office Hours: EE II room 3298 
 + E-Mail: tim.menzies@gmail.com 
   + Only use this email for private matters. All other class communication should be via the class news group,    listed below.
@@ -134,12 +134,13 @@ Tim Menzies <img src="http://www.csc.ncsu.edu/enews/images/1770.jpg" align=right
 
 ### Tutor
 
-TBA
 
-XXX YYY <img src="imgx/xxx.jpg" align=right width=100>
+Effat Farhana 
 
-+ Github id: 
-+ E-mail: xxx@ncsu.edu
+YYY <img src="imgx/xxx.jpg" align=right width=100>
+
++ Github id:  effat
++ E-mail: efarhan@ncsu.edu
   + Only use this email for private matters.
   + All other class communication should be via the class news group, listed after.
 + Office hours: XXXX
