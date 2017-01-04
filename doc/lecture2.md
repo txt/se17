@@ -267,3 +267,23 @@ speech, vision, motion, touch, and beyond
 technologies and solutions: Better designed to keep
 up with the massive scale and expanding scope of the
 3rd Platform.
+
+### Frontiers of SE Research
+
+Clustering 16,000 conferences from SE conferences 1993 to 2016
+
+Clusters found:
+
+<img src="img/topics.png">
+	
+Top 2 most cited papers....
+
+... last 25 years
+
+<img src="img/papersAll.png">
+
+... recently (this decade) 
+
+<img src="img/papersRecent.png">
+
+
