@@ -58,7 +58,7 @@ which of those three (if any) should actually be used.
 |mar30|results             |document your improvement (if any)i.e. document how people's experience changes with X|
 |     |recommendations     |make a reasoned recommendation; i.e. write a report that reports your 3 designs, your methods, your results, and your recommendations for which (if any) to use.|
 |     | lightning talk     |10 minute briefing (20 slides * 30 seconds each+ 5 mins questions) to class on your problem)  **must** present your results and recommendations|
-|apr30|software analytics  |report on patterns in comments and commits in Gihub projects|
+|apr30|software analytics  |report on project bad smells (inferred from Gihub activity)|
 
 Note that there is **no** coding in January, and **no** user trials in Feburary or April.
 
