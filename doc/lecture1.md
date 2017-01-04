@@ -13,6 +13,9 @@ Before we get down to SE theory, our first
 lectures will explore the tools and techniques
 needed for Project1 (due end of January).
 
+So here is a pretty messy collection of notes and tips on various tools.
+
+____
 
 ## Research
 
@@ -29,6 +32,7 @@ Exercise1:
 Exercise2:
  
 - Problem: "how to find a car park"
+- Go to Google scholar and see what you can find
 
 ### Reading the literature
 
@@ -38,9 +42,9 @@ Dancing through the years with google scholar
 
 Places to search for papers:
 
-- IEEE Xplore
-- ACM Digital Library
-- Google Scholar
+- [IEEE Xplore](http://ieeexplore.ieee.org/Xplore/home.jsp)
+- [ACM Portal](http://dl.acm.org/results.cfm?query=software%20engineering&filtered=&within=owners%2Eowner%3DHOSTED&dte=&bfr=&srt=publicationDate)
+- [Google Scholar](https://scholar.google.com/scholar?as_ylo=2013&q=software+engineering&hl=en&as_sdt=0,34)
 
 Note that these search engines have "cited by" fields so if you find a good paper, you can run forward in the literature looking for subsequent studies.
 
@@ -62,18 +66,13 @@ Methodology:
 (R.C. Bryce, A. Cooley, A. Hansen, N. Hayrapetyan,
 [A one year empirical study of student programming bugs](http://dx.doi.org/10.1109/FIE.2010.5673143) in Frontiers in Education Conference (FIE), 2010. )
 
-## Github
+____
 
+## Github
 
 ### Create an Organziation in Github
 
 One organization has many repositories.
-
-### Use ShareLatex
-
-Remember:  push the big blue button.
-
-Link the sharelatex project to a repo in your organization
 
 
 ### Github Isses and Labels
@@ -82,29 +81,65 @@ Github issues: [tutorial](https://guides.github.com/features/issues/)
 and [A simple styleguide for tagging Github issues](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/).
 
 
+_____
+
 ## Data Collection Tools
+
+### Googleforms
+
+See https://support.google.com/docs/answer/87809?hl=en
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cm3KyqbaMJA" frameborder="0" allowfullscreen></iframe>
+
+### Mechanical Turk
+
+[Introduction to crowd sourcing](https://docs.google.com/presentation/d/1B5Z8Ohf6xRdhLM6q49_z0PUjAHY15w9Pt3o8yADix8I/edit#slide=id.gc6f75fceb_0_5)
+
 
 ### Talking to people
 
-Using humans to assess software.
+Good news:
+
+- To evaluate your software, you have been given access to
+  a group of 65&times; 10 / 20 = 32 people you can use  a 1 hour eval session. 
+      - Which you can use for your January and March work when you ahve to evaluate software
+      - So, in theory, groups of 16 people
+
+Bad news:
+
+- That group is.... you. To earn 10  marks for this subject, you will have to volunteer for 5 &times; 1 hour eval sessions in Jan and March
+- Scheduling nightmare. It'll be... messy. Realistically, getting groups of 5 to 10 to comment on your software in Jan/Mar will
+  be more achiveable.
+
+In any case, once you've got those people, what can you do with them?
 
 [A wide range of options](https://github.com/REU-SOS/HumanStudy/blob/master/handout.pdf).
 You will most probably use or or more of:
 
-- Semi-structured or structured interviews
-- Questionaire
-- Focus groups
-- Think aloud
-- Data analysis methods 
+1. Semi-structured or structured interviews
+2. Questionaire
+3. Focus groups
+4. Think aloud
+5. a analysis methods 
+
+Exercise 3: Think-pair-share
+
+- Rank each of the above 5 points, plus GoogleGorms and Mechanical Turk, in terms of cost and effectiveness in gaining insight on software
+     - 2 minutes. Dream of options
+     - 5 minites: pair with your neighbor, share ideas, try to find better ones
+     - 8 minutes: around the room "what are our best ideas?"
+
+### Polcies with People Data 
 
 No matter what is done, all sessions must start with
 
 - Identifying who you are (some contact details passed to subject)
+- A gift. Muffins. Coffee. Pizza. Something to make them feel wanted.
 - Explanation of what we are doing
 - Stress the user's rights
        - The right not to participate (they can leave, now, if they want to)
        - The right to privacy (user identifiers will NEVER be stored with data)
-       - The right to be forgotten (on request, you WILL delte this user's data) 
+       - The right to be forgotten (on request, you WILL delete this user's data)
 
 After that, you could...
 
@@ -114,11 +149,7 @@ After that, you could...
 - Do something unstructured (e.g. ask them to think aloud, reflect; here you
   are looking for 
 
-### Googleforms
-
-### Mechanical Turk
-
-[Introduction to crowd sourcing](https://docs.google.com/presentation/d/1B5Z8Ohf6xRdhLM6q49_z0PUjAHY15w9Pt3o8yADix8I/edit#slide=id.gc6f75fceb_0_5)
+_____
 
 ## Reporting
 
@@ -142,7 +173,23 @@ https://docs.google.com/presentation/d/1GgwBtcyni0VXvm9PLzx3oQl8C4_lcdKNK8T2SWTo
 
 ### Latex
 
+<a href="https://storage.googleapis.com/instapage-user-media/cba104e6/6832348-0-screen2x.png"><img width=300
+src="https://storage.googleapis.com/instapage-user-media/cba104e6/6832348-0-screen2x.png"></a>
+
 Sharelatex
+
+http://sharelatex.com
+
+Remember:  push the big blue button.
+
+Link the sharelatex project to a repo in your organization
+
+- at least one member of each group has to get the "collaborator" plan (normally $15/month, student plans for $8/month)
+      - Can link to Github
+      - can create a share project and invite others.
+- the rest can live in free "Personal" land
+
+
 
 Bibtex
 
