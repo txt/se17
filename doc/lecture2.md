@@ -274,16 +274,16 @@ Clustering 16,000 conferences from SE conferences 1993 to 2016
 
 Clusters found:
 
-<img src="img/topics.png">
+<img src="../img/topics.png">
 	
 Top 2 most cited papers....
 
 ... last 25 years
 
-<img src="img/papersAll.png">
+<img src="../img/papersAll.png">
 
 ... recently (this decade) 
 
-<img src="img/papersRecent.png">
+<img src="../img/papersRecent.png">
 
 
