@@ -82,10 +82,8 @@ Grades will be assigned as follows:
 
 |due|marks|notes|
 |---|-----|-----|
-|Jan31|10| Initial project description:<br>- Report on related work (5 marks)<br> - 5min talk to class (5marks)<br>
-            - And your project name and URL [here](tiny.cc/se17give)|
-| Feb28|10| Progress report:<br>- Demos to lecturer or tutor (5marks)<br>
-- Much Github activity from all developers (5marks). Submit link to [this page in your repo](https://github.com/ai-se/eebm/graphs/contributors)<br>|
+|Jan31|10| Initial project description:<br>- Report on related work (5 marks)<br> - 5min talk to class (5marks)<br> - And your project name and URL [here](tiny.cc/se17give)|
+| Feb28|10| Progress report:<br>- Demos to lecturer or tutor (5marks)<br>- Much Github activity from all developers (5marks). Submit link to [this page in your repo](https://github.com/ai-se/eebm/graphs/contributors)<br>|
 | Mar31|20| Final report:<br>- 10min Talk to the class  (10 marks);  <br>- A report document  (10 marks). See [example](https://goo.gl/3C82cj)|
 | Apr28|10| A report of the form shown [here](https://github.com/CSC510-2015-Axitron/project2)|
 
