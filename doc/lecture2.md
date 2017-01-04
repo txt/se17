@@ -100,6 +100,8 @@ Parts of SE:
 - patterns, anti-patterns, bad smells;
 - construction;
 - verification;
+- testing;
+- maintenance, enhancement;
 - programming languages and databases.
 
 ## Why Software is so Interesting... Now
@@ -186,7 +188,6 @@ src="../img/boehmHistory.png"></a></center>
 
 
  
-
 ## The Great Secrets of the V-diagram
 
 Software =
@@ -224,9 +225,17 @@ Surprise #2:  testing takes half the time?
 
 
 
+## Reasons to be Cheerful
 
+[The Non-Existent Software Crisis: Debunking the Chaos Report](http://www.drdobbs.com/architecture-and-design/the-non-existent-software-crisis-debunki/240165910?pgno=1)
 
 ## Predictions for the Future
+
+### From Microsoft
+
+[Microsoft researchers on what to expect in 2017 and 2027](http://blogs.microsoft.com/next/2016/12/05/17-17-microsoft-researchers-expect-2017-2027/#sm.001sdp80c140eeerrun1l2cvowaft) 
+
+### From IDC
 
 From [IDC Predictions 2015: Accelerating Innovation- and Growth-
  on the 3rd Platform](../img/IDCForecast2015.pdf),
