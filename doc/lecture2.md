@@ -12,7 +12,7 @@ _______
 # Lecture2: What is Software Engineering?
 
 
-<img align=right width=400http://goo.gl/8SMd1p
+<img align=right width=400 
 src="http://www.anergos.eu/uploads/2/4/0/3/24030060/7288702_orig.jpg">
 
 
