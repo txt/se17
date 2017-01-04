@@ -85,7 +85,7 @@ Expense tracker (managing day to day expenses)
 - best balanced approach (literature + user studies)
 - https://github.com/sandz-in/csc510_group_l/blob/master/feb1/ExpenseSharing.pdf
 
-## How to find a community with a X:
+## How to find a community with a problem with X:
 
 1. Do whatever you want.
 2. Or, think about the classes you did last semester. Think about the organization of that subject, the students who tool that subject the content of that subject, who might use the content of that subject in the real world. Would any of those people have particular kinds of problems either in taking that particular subject, or in using the concepts of that subject in the real world? Can you solve those problems? 
