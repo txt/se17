@@ -268,7 +268,9 @@ technologies and solutions: Better designed to keep
 up with the massive scale and expanding scope of the
 3rd Platform.
 
-### Frontiers of SE Research
+______
+
+### Frontiers of SE 
 
 Clustering 16,000 conferences from SE conferences 1993 to 2016
 
