@@ -28,7 +28,7 @@ Lets find out.
 
 <br clear=all>
 
-In this work you will:
+In this work you will do the following. 
 
 
 |when|what| notes|
@@ -45,6 +45,7 @@ In this work you will:
 |     | lightning talk         | 10 minute briefing (20 slides * 30 seconds each+ 5 mins questions) to class on your problem)  **must** present your results and recommendations|
 |apr30|software analytics      | report on patterns in comments and commits in Gihub projects|
 
+Note that there is **no** coding in January, and **no** user trials in Feburary or April.
 
 How to find a community with a X:
 

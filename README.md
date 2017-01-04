@@ -51,6 +51,7 @@ practices throughout the semester.
 
 </td><td valign=top xwidth="100px">
 
+<a href="doc/badsmells.md">1:Bad smells</a><br>
 <a href="doc/project.md">0:Project</a>
 </td><td valign=top xwidth="100px">
 

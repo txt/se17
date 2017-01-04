@@ -83,9 +83,14 @@ Grades will be assigned as follows:
 |due|marks|notes|
 |---|-----|-----|
 |Jan31|10| Initial project description:<br>- Report on related work (5 marks)<br> - 5min talk to class (5marks)<br> - And your project name and URL [here](tiny.cc/se17give)|
-| Feb28|10| Progress report:<br>- Report on 3 propose solutions and evaluation plan (5 marks)<br>- Demos to lecturer or tutor (marks deducted if absent)<br>- Much Github activity from all developers (5marks). Submit link to [this page in your repo](https://github.com/ai-se/eebm/graphs/contributors)<br>|
-| Mar31|20| Final report:<br>- 10min Talk to the class  (10 marks);  <br>- A report document (results and recommendations)  (10 marks). See [example](https://goo.gl/3C82cj)|
-| Apr28|10| A report of the form shown [here](https://github.com/CSC510-2015-Axitron/project2)|
+| Feb28|10| Progress report:<br>- Report on 3 propose solutions and evaluation plan (5 marks)<br>- Demos to lecturer or tutor (marks deducted if absent)<br>- Much Github activity from all developers(*) (5marks). Submit link to [this page in your repo](https://github.com/ai-se/eebm/graphs/contributors)<br>|
+| Mar31|20| Final report:<br>- 10min talk to the class  (10 marks);  <br>- A report document (results and recommendations)  (10 marks). See [example](https://goo.gl/3C82cj)|
+| Apr28|10| A report on "bad smell detection" in Github issues; e.g.  [here](https://github.com/CSC510-2015-Axitron/project2)|
+
+(*) An active Github repo contains dozens to hundreds of commits and issues; all issues are in five to twenty (or more) milestones;
+issues are labeled;
+issues are getting opened and closed; (some) milestones are getting completed (but others might actually be your plan for your March work);
+all members of the team are contributing equally (plus or minus 33%).
 
 
 With the final grades, the following grade scale will be used: 
