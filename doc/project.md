@@ -48,17 +48,17 @@ which of those three (if any) should actually be used.
 
 |when|what| notes|
 |----|----|------|
-|jan31|find your users     |a community of people who have a problem with X|
-|     |document a  baseline|document what problems people have with X|
-|     |conduct research    |look into  how other people have solved X (using software)|
-|     |lightning talk      |5 minute briefing (20 slides * 30 seconds each to class on your problem) **must** include notes on your proposed solution|
-|feb28|propose solutions   |3 different ways to solve X|
-|     |significant progress|code demos showing the 3 solutions|
-|     |evaluation plan     |materials required for user eval sessions. Must include answers to [this questionnaire](https://github.com/REU-SOS/HumanStudy/blob/master/testplan.pdf).|
-|mar30|results             |document your improvement (if any)i.e. document how people's experience changes with X|
-|     |recommendations     |make a reasoned recommendation; i.e. write a report that reports your 3 designs, your methods, your results, and your recommendations for which (if any) to use.|
-|     | lightning talk     |10 minute briefing (20 slides * 30 seconds each+ 5 mins questions) to class on your problem)  **must** present your results and recommendations|
-|apr30|software analytics  |report on project bad smells (inferred from Gihub activity)|
+|Jan31|Find your users     |A community of people who have a problem with X|
+|     |Document a  baseline|Document what problems people have with X|
+|     |Conduct research    |Look into  how other people have solved X (using software)|
+|     |Lightning talk      |5 minute briefing (20 slides * 30 seconds each to class on your problem) **must** include notes on your proposed solution|
+|Feb28|Propose solutions   |3 different ways to solve X|
+|     |Significant progress|Code demos showing the 3 solutions|
+|     |Evaluation plan     |Materials required for user eval sessions. Must include answers to [this questionnaire](https://github.com/REU-SOS/HumanStudy/blob/master/testplan.pdf).|
+|Mar30|Results             |Document your improvement (if any)i.e. document how people's experience changes with X|
+|     |Recommendations     |Make a reasoned recommendation; i.e. write a report that reports your 3 designs, your methods, your results, and your recommendations for which (if any) to use.|
+|     | Lightning talk     |10 minute briefing (20 slides * 30 seconds each+ 5 mins questions) to class on your problem)  **must** present your results and recommendations|
+|Apr30|Software analytics  |Report on project bad smells (inferred from Gihub activity). For more on this part, see [here](badsmells.md)|
 
 Note that there is **no** coding in January, and **no** user trials in Feburary or April.
 
