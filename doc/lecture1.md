@@ -14,6 +14,7 @@ lectures will explore the tools and techniques
 needed for Project1 (due end of January).
 
 So here is a pretty messy collection of notes and tips on various tools.
+Some of this we will work through in class, some you'll need to read for yourself.
 
 ____
 
@@ -70,6 +71,8 @@ ____
 
 ## Github
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0fKg7e37bQE" frameborder="0" allowfullscreen></iframe>
+
 ### Create an Organziation in Github
 
 One organization has many repositories.
@@ -79,6 +82,19 @@ One organization has many repositories.
 
 Github issues: [tutorial](https://guides.github.com/features/issues/)
 and [A simple styleguide for tagging Github issues](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/).
+
+
+### Using master and branches
+
+Newbie GH:
+
+- everyone commits to master. nothing fancy
+- FYI- I commit several times a day
+- probably suffices for your small class projects
+
+But if you want to see how the gurus do things:
+   - [see here](https://guides.github.com/introduction/flow/)
+   - [or here](http://scottchacon.com/2011/08/31/github-flow.html) 
 
 
 _____
