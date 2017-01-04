@@ -73,7 +73,7 @@ Give a talk, submit the slides and a 5+ page  report
 
 Note that the Jan report is just a few pages. Takes some work, but an easy first step.
 
-For example, here are some of the reports from last year.
+For example, here are some of the January reports from last year.
 
 Clipit (better copy paste tools) 
 - Extensive analysis of the literature (great) 
