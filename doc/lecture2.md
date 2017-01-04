@@ -1,7 +1,7 @@
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;[home](http://tiny.cc/se17) | 
-[syllabus](https://github.com/txt/se17/blob/master/doc/syllabus.md) | 
+[syllabus](https://github.com/txt/se16/blob/master/doc/syllabus.md) | 
 [submit](http://tiny.cc/se17give) |
 [chat](https://se17.slack.com/)  
 [<img width=900 src="https://raw.githubusercontent.com/txt/se17/master/img/se17.png">](http://tiny.cc/se17)   <br>
@@ -9,11 +9,9 @@
 
 _______
 
+<img align=right width=500 src="http://se16.unbox.org/_img/girlbot.jpg">
+
 # Lecture2: What is Software Engineering?
-
-
-<img align=right width=400 
-src="http://www.anergos.eu/uploads/2/4/0/3/24030060/7288702_orig.jpg">
 
 
 ## What Does Software Do?
