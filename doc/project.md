@@ -174,7 +174,7 @@ of IEEE](https://www.ieee.org/conferences_events/conferences/publishing/template
     - But what would be different for suers is showing them the decision trees and saying
   "you landed here, you want to be there, here is the difference in the tree branches".
 - Building from scratch
-    - Better to eapfrog into your work by reusing some other code base.
+    - Better to leapfrog into your work by reusing some other code base.
     - For example, for anything with user input, consider the Subline Text editor. It has a
   [nifty package manager](https://packagecontrol.io/) that allows you to switch between packagages, even at runtime (makes experimentation easy).	     
 
