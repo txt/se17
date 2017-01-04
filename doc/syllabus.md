@@ -76,8 +76,8 @@ Grades will be assigned as follows:
 - Participation in evaluations: 10 marks (one per evaluation)
       - Students will be issued 10 "chits" with 10 magic numbers
       - When they perform any evaluation, they hand over the "chit"
-      - When students hand in their Jan31 and Mar31 reports, they list
-        the chit numbers of the students present for their evals.
+      - When students hand in their Jan31 and Mar31 reports, they list the chit numbers of the students present for their evals.
+      - Chits must be "spent" in other projects (you cannot hand in chits from your own people for your own project).
 - Project: 50 marks,  
 
 |due|marks|notes|
