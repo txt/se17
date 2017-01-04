@@ -20,6 +20,7 @@ group project required following good software engineering
 practices throughout the semester.
 
 
+<img width=900 src="http://se16.unbox.org/_img/subjects.png">
 
 <center>
 <table border=0 align=center>
@@ -43,6 +44,7 @@ practices throughout the semester.
 <tr>
 <td valign=top  xwidth="100px">
 
+<a href="https://geneticmail.com/scott/library/text/seven-languages-in-seven-weeks_p1_0.pdf">7 languages</a>
 </td>
 <td valign=top  xwidth="100px">
 
@@ -52,6 +54,8 @@ practices throughout the semester.
 
 </td><td valign=top xwidth="100px">
 
+<a href="https://github.com/cleebp/csc-510-group-g/blob/master/apr1/report/report.pdf">3:e.g.Clipit</a><br>
+<a href="https://github.com/sandz-in/csc510_group_l/blob/master/april/Report.pdf">2:e.g.Expenses</a><br>
 <a href="doc/badsmells.md">1:Bad smells</a><br>
 <a href="doc/project.md">0:Project</a>
 </td><td valign=top xwidth="100px">

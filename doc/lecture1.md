@@ -88,8 +88,6 @@ and [A simple styleguide for tagging Github issues](https://robinpowered.com/blo
 
 Using humans to assess software.
 
-
-
 [A wide range of options](https://github.com/REU-SOS/HumanStudy/blob/master/handout.pdf).
 You will most probably use or or more of:
 
@@ -108,7 +106,7 @@ No matter what is done, all sessions must start with
        - The right to privacy (user identifiers will NEVER be stored with data)
        - The right to be forgotten (on request, you WILL delte this user's data) 
 
-After that, you can...
+After that, you could...
 
 - Run sample exercise 1 (done by experimenters)
 - Run structured exercise 2 (what the user does, perhaps with a thinking 
@@ -119,7 +117,8 @@ After that, you can...
 ### Googleforms
 
 ### Mechanical Turk
- 
+
+[Introduction to crowd sourcing](https://docs.google.com/presentation/d/1B5Z8Ohf6xRdhLM6q49_z0PUjAHY15w9Pt3o8yADix8I/edit#slide=id.gc6f75fceb_0_5)
 
 ## Reporting
 
@@ -137,7 +136,7 @@ Go to slides.google.com
 
 ```
 https://docs.google.com/presentation/d/1GgwBtcyni0VXvm9PLzx3oQl8C4_lcdKNK8T2SWTohQI/pub?start=true&loop=false&delayms=20000&slide=id.p
-```
+ ```
 
 [Pecha Kucha: Tips, Resources & Examples])http://cmmr.usc.edu//Pecha_Kucha_TipsResourcesExamples.pdf)
 

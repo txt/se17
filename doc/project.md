@@ -51,13 +51,13 @@ which of those three (if any) should actually be used.
 |Jan31|Find your users     |A community of people who have a problem with X|
 |     |Document a  baseline|Document what problems people have with X|
 |     |Conduct research    |Look into  how other people have solved X (using software)|
-|     |Lightning talk      |5 minute briefing (20 slides * 30 seconds each to class on your problem) **must** include notes on your proposed solution|
+|     |Lightning talk      |short minute briefing (20 slides * 20 seconds each to class on your problem) **must** include notes on your proposed solution|
 |Feb28|Propose solutions   |3 different ways to solve X|
 |     |Significant progress|Code demos showing the 3 solutions|
 |     |Evaluation plan     |Materials required for user eval sessions. Must include answers to [this questionnaire](https://github.com/REU-SOS/HumanStudy/blob/master/testplan.pdf).|
 |Mar30|Results             |Document your improvement (if any)i.e. document how people's experience changes with X|
 |     |Recommendations     |Make a reasoned recommendation; i.e. write a report that reports your 3 designs, your methods, your results, and your recommendations for which (if any) to use.|
-|     | Lightning talk     |10 minute briefing (20 slides * 30 seconds each+ 5 mins questions) to class on your problem)  **must** present your results and recommendations|
+|     | Lightning talk     |10 minute briefing (20 slides * 30 seconds each) to class on your problem)  **must** present your results and recommendations|
 |Apr30|Software analytics  |Report on project bad smells (inferred from Gihub activity). For more on this part, see [here](badsmells.md)|
 
 Note that there is **no** coding in January, and **no** user trials in Feburary or April.
@@ -87,9 +87,9 @@ How to find a community with a X:
      - All reports must conform to the typographical style of [Latex conference style files
 of IEEE](https://www.ieee.org/conferences_events/conferences/publishing/templates.html). 
      - No deviations.
-- All your presentations **must** be written in Google slides. No presie. No powerpoint. No raw pdf.
-     - All talks must be click at go
-     - All talks must auto advance each slide every 30 seconds. No more, no less.
+- All your presentations **must** be written in Google slides. No Prezi. No Powerpoint. No raw pdf.
+     - All talks must be click at go (in url, set `start=true`)
+     - All talks must auto advance each slide every 30 seconds. No more, no less. (in url, set `delayms=30000`)
   
 
 ## Red flags
