@@ -173,26 +173,23 @@ https://docs.google.com/presentation/d/1GgwBtcyni0VXvm9PLzx3oQl8C4_lcdKNK8T2SWTo
 
 ### Latex
 
-<a href="https://storage.googleapis.com/instapage-user-media/cba104e6/6832348-0-screen2x.png"><img width=300
-src="https://storage.googleapis.com/instapage-user-media/cba104e6/6832348-0-screen2x.png"></a>
+<a href="https://storage.googleapis.com/instapage-user-media/cba104e6/6832348-0-screen2x.png"><img width=400
+align=right src="https://storage.googleapis.com/instapage-user-media/cba104e6/6832348-0-screen2x.png"></a>
 
 Sharelatex
 
-http://sharelatex.com
-
-Remember:  push the big blue button.
-
-Link the sharelatex project to a repo in your organization
-
+- http://sharelatex.com
+- Remember:  push the big blue button.
+- Link the sharelatex project to a repo in your organization
 - at least one member of each group has to get the "collaborator" plan (normally $15/month, student plans for $8/month)
       - Can link to Github
       - can create a share project and invite others.
 - the rest can live in free "Personal" land
 
-
-
 Bibtex
 
 Adding figures (btw, NOT excel graphics)
 
-Not-so-short-introduction to Latex
+You probably won't need this, but for completenesss.
+
+- [Not-so-short-introduction to Latex](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj8qPuuxKjRAhVENSYKHdFCCugQFggaMAA&url=https%3A%2F%2Ftobi.oetiker.ch%2Flshort%2Flshort.pdf&usg=AFQjCNFBLNe8MyAG11nkWmIuM5lfQap4bA&sig2=QZM1s-veuj0Ob14ct_nuAQ&bvm=bv.142059868,d.eWE)
