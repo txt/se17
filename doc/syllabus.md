@@ -70,7 +70,7 @@ between each other for that project.
 
 Grades will be assigned as follows:
 
-- Spot quizes, misc (quick) homeworks, 5 marks.
+- Spot quizes, misc (quick) home works, 5 marks.
 - Mid-term: Tuesday, March2, 15 marks
 - Final exam: 20 marks
 - Participation in evaluations: 10 marks (one per evaluation)
@@ -82,13 +82,15 @@ Grades will be assigned as follows:
 
 |due|marks|notes|
 |---|-----|-----|
-|Jan31|10| Initial project description:<br>- Report on related work (5 marks)<br> - 5min talk to class (5marks)|
-| Feb28|10| Progress report:<br> - Much Github activity from all developers (5marks).<br>- Demos to lecturer or tutor (5marks)|
+|Jan31|10| Initial project description:<br>- Report on related work (5 marks)<br> - 5min talk to class (5marks)<br>
+            - And your project name and URL [here](tiny.cc/se17give)|
+| Feb28|10| Progress report:<br>- Demos to lecturer or tutor (5marks)<br>
+- Much Github activity from all developers (5marks). Submit link to [this page in your repo](https://github.com/ai-se/eebm/graphs/contributors)<br>|
 | Mar31|20| Final report:<br>- 10min Talk to the class  (10 marks);  <br>- A report document  (10 marks). See [example](https://goo.gl/3C82cj)|
 | Apr28|10| A report of the form shown [here](https://github.com/CSC510-2015-Axitron/project2)|
 
 
-The following grade scale will be used: 
+With the final grades, the following grade scale will be used: 
 
      A+ (97-100),  A (93-96),   A-(90-92)
      B+ (87-89),   B (83-86),   B-(80-82)
@@ -154,7 +156,7 @@ reduce your attendance grade by 10%.
 As to what is an "excused" class, see the list at 
 [https://policies.ncsu.edu/regulation/reg-02-20-03](https://policies.ncsu.edu/regulation/reg-02-20-03):
 
-- Anticipated ansences:
+- Anticipated absences:
      - Representing an official university function (e.g. athletics)
      - Required court attendance as certified by the Clerk of Court.
      - Students will be allowed a minimum of two excused absences per academic year for religious observances 
@@ -205,7 +207,7 @@ someone else's product is:
 + The imported project is understood, and
 + The imported project is significantly extended.
 
-Students are encouraged to read each others code and repor **uninformed reuse**
+Students are encouraged to read each others code and report **uninformed reuse**
 to the lecturer. The issue will be explored and, if uncovered,
 cheating will be reported to the university
 and marks will be deducted if the person who is doing the reuse:

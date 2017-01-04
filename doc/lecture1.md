@@ -76,7 +76,6 @@ Remember:  push the big blue button.
 Link the sharelatex project to a repo in your organization
 
 
-
 ### Github Isses and Labels
 
 Github issues: [tutorial](https://guides.github.com/features/issues/)

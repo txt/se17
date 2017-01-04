@@ -22,12 +22,11 @@ _"Sure, you can code. But can you engineer?"_
 + Can you code to acceptable levels of quality? 
 + Can you save time by reusing (parts) of other people's code?
 + Do you know about configuration and version control?
-+ Can you deliver enough  working software, on time, avoiding superflous details?
++ Can you deliver just enough  working software, on time, avoiding superflous details?
  
 Lets find out.
 
 <br clear=all>
-
 
 In this work you will:
 
@@ -97,6 +96,9 @@ of IEEE](https://www.ieee.org/conferences_events/conferences/publishing/template
 - Github commits, comments are very rare, only from one person
      - "But we do pair programming, all typing together".
      - Really, all the time? Every day of the week?
+- Team members using incompatiable environments
+     - Everyone should be able to run everyone else's code
+     - e.g. if Python, you want to indent with 2 spaces? 4 spaces? tab? Whatever. Jsut be consistent across the team.
 - Team coding right up to the due dates
      - What? No testing phase?
      - And what about all the work that happens after coding?
