@@ -61,7 +61,7 @@ world around us:
      + One gets to see the riots;
      + The other gets to see pretty pictures of tourist attractions.
 
-<center><img width=750 src="img/search2.png"></center>
+<center><img width=750 src="../img/search2.png"></center>
 
 
 
