@@ -17,33 +17,48 @@ _"Every feature is an experiment."_
 _"Sure, you can code. But can you engineer?"_   
 -- Tim Menzies
 
-+ i.e.  Can you work in a team?
-+ Assess technical options and rigorously defend one of them? 
-+ Can you code to acceptable levels of quality? 
-+ Can you save time by reusing (parts) of other people's code?
-+ Do you know about configuration and version control?
-+ Can you deliver just enough  working software, on time, avoiding superflous details?
+Software Engineering is the:
+
++ process of the
++ design,
++ construction and
++ maintenance of
++ good enough
++ software,
++ given the available resources.
+
+The last point means that we are always trading off between what
+we want with what we need with what we've got. Software engineers,
+therefore are the people we look to:
+
++ Make and
++ justify
++ well-informed decisions
++ about trade-offs
++ in software engineering.
+
+This, in turn means that at any time, software engineering are aware
+of multiple possibilities and the reasons why we should be doing
+one, and not the others.
  
-Lets find out.
+So, lets check if you are engineers...
 
-<br clear=all>
-
-In this work you will do the following. 
-
+In this project you will find a problem,  define and build and assess three different solutions to  that problem. Make a recommendation
+which of those three (if any) should actually be used.
 
 |when|what| notes|
 |----|----|------|
-|jan31|find your users         |a community of people who have a problem with X|
-|     |document a  **baseline**| document what problems people have with X           |
-|     |conduct research        |look into  how other people have solved X (using software)|
-|     |lightning talk          | 5 minute briefing (20 slides * 30 seconds each to class on your problem) **must** include notes on your proposed solution|
-|feb28|propose solutions       |3 **different** ways to solve X|
-|     |significant progress    |code demos showing the 3 solutions|
-|     |evaluation plan         | materials required for user eval sessions. Must include answers to [this questionnaire](https://github.com/REU-SOS/HumanStudy/blob/master/testplan.pdf).|
-|mar30|results                 |       document your **improvement** (if any)i.e. document how people's experience changes with X|
-|     |recommendations         | make a reasoned recommendation; i.e. write a report that reports your 3 designs, your methods, your results, and your recommendations for which (if any) to use.|
-|     | lightning talk         | 10 minute briefing (20 slides * 30 seconds each+ 5 mins questions) to class on your problem)  **must** present your results and recommendations|
-|apr30|software analytics      | report on patterns in comments and commits in Gihub projects|
+|jan31|find your users     |a community of people who have a problem with X|
+|     |document a  baseline|document what problems people have with X|
+|     |conduct research    |look into  how other people have solved X (using software)|
+|     |lightning talk      |5 minute briefing (20 slides * 30 seconds each to class on your problem) **must** include notes on your proposed solution|
+|feb28|propose solutions   |3 different ways to solve X|
+|     |significant progress|code demos showing the 3 solutions|
+|     |evaluation plan     |materials required for user eval sessions. Must include answers to [this questionnaire](https://github.com/REU-SOS/HumanStudy/blob/master/testplan.pdf).|
+|mar30|results             |document your improvement (if any)i.e. document how people's experience changes with X|
+|     |recommendations     |make a reasoned recommendation; i.e. write a report that reports your 3 designs, your methods, your results, and your recommendations for which (if any) to use.|
+|     | lightning talk     |10 minute briefing (20 slides * 30 seconds each+ 5 mins questions) to class on your problem)  **must** present your results and recommendations|
+|apr30|software analytics  |report on patterns in comments and commits in Gihub projects|
 
 Note that there is **no** coding in January, and **no** user trials in Feburary or April.
 

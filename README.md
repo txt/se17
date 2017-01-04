@@ -46,6 +46,7 @@ practices throughout the semester.
 </td>
 <td valign=top  xwidth="100px">
 
+<a href="doc/lecture2.md">2: What is SE?</a><br>
 <a href="doc/lecture1.md">1: Project tools</a><br>
 <a href="doc/lecture0.md">0: Intro</a>
 
