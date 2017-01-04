@@ -129,9 +129,9 @@ of IEEE](https://www.ieee.org/conferences_events/conferences/publishing/template
      - All talks must auto advance each slide every 30 seconds. No more, no less. (in url, set `delayms=30000`)
   
 
-## Red flags
+## Project "Bad Smells"
 
-- Not meeting tomorrow
+- Not meeting 
      - Meet for 10 minutes tonight; prime the pumps with some intial idea
      - Meet tomorrow for an hour. Map out January, when you have to do what. Do it.
 - Whole team is working on one person's pet project they ahve been nursing along for years
