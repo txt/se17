@@ -32,6 +32,6 @@ lot of things there are to learn.
 
 <a href="http://csrankings.org/"><img width=900 src="../img/number7.png"></a>
 
-<a href="http://menzies.us"><img width=900 src="../img/me.png"></a>
+<a href="http://menzies.us"><img src="../img/me.png"></a>
 
 
