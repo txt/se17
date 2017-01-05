@@ -30,8 +30,8 @@ lot of things there are to learn.
 
 <img width=900 src="http://se16.unbox.org/_img/subjects.png">
 
-<img width=900 src="../img/number7.png">
+<a href="http://csrankings.org/"><img width=900 src="../img/number7.png"></a>
 
-<a href="http://menzies.us".<img width=900 src="../img/me.png"></a>
+<a href="http://menzies.us"><img width=900 src="../img/me.png"></a>
 
 
