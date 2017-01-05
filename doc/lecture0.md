@@ -35,3 +35,6 @@ lot of things there are to learn.
 <a href="http://menzies.us"><img src="../img/me.png"></a>
 
 
+<a href="https://www.amazon.com/Perspectives-Data-Science-Software-Engineering/dp/0128042060"><img width=250 src="img/perspectivesBook.jpg"></a>
+<a href="https://www.amazon.com/Art-Science-Analyzing-Software-Data/dp/0124115195"><img width=250 src="img/asdbookCover.png"></a>
+<a href="https://www.amazon.com/Sharing-Data-Models-Software-Engineering/dp/0124172954"><img width=250 src="img/shareBookCover.png"></a> 
