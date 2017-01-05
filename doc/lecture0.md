@@ -32,7 +32,6 @@ lot of things there are to learn.
 
 <a href="http://csrankings.org/"><img width=900 src="../img/number7.png"></a>
 
-<a href="http://menzies.us"><img src="../img/me.png"></a>
 
 
 <a href="https://www.amazon.com/Perspectives-Data-Science-Software-Engineering/dp/0128042060"><img 
@@ -41,3 +40,7 @@ width=250 src="http://menzies.us/img/perspectivesBook.jpg"></a>
 width=250 src="http://menzies.us/img/asdbookCover.png"></a>
 <a href="https://www.amazon.com/Sharing-Data-Models-Software-Engineering/dp/0124172954"><img 
 width=250 src="http://menzies.us/img/shareBookCover.png"></a> 
+
+
+<a href="http://menzies.us"><img src="../img/me.png"></a>
+
