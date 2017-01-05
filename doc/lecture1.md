@@ -20,7 +20,7 @@ ____
 
 ## Research
 
-### Finding Choice
+### Finding Choice (TM)
 
 Exercise1:
 
@@ -35,7 +35,7 @@ Exercise2:
 - Problem: "how to find a car park"
 - Go to Google scholar and see what you can find
 
-### Reading the literature
+### Reading the literature (TM)
 
 Dancing through the years with google scholar
 
@@ -69,7 +69,7 @@ Methodology:
 
 ____
 
-## Github
+## Github (EF)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0fKg7e37bQE" frameborder="0" allowfullscreen></iframe>
 
@@ -101,13 +101,13 @@ _____
 
 ## Data Collection Tools
 
-### Googleforms
+### Googleforms (TM)
 
 See https://support.google.com/docs/answer/87809?hl=en
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cm3KyqbaMJA" frameborder="0" allowfullscreen></iframe>
 
-### Mechanical Turk
+### Mechanical Turk (Jack)
 
 [Introduction to crowd sourcing](https://docs.google.com/presentation/d/1B5Z8Ohf6xRdhLM6q49_z0PUjAHY15w9Pt3o8yADix8I/edit#slide=id.gc6f75fceb_0_5)
 
@@ -167,7 +167,7 @@ After that, you could...
 
 _____
 
-## Reporting
+## Reporting (TM)
 
 ### Pecha Kucha
 
@@ -187,7 +187,7 @@ https://docs.google.com/presentation/d/1GgwBtcyni0VXvm9PLzx3oQl8C4_lcdKNK8T2SWTo
 
 [Pecha Kucha: Tips, Resources & Examples])http://cmmr.usc.edu//Pecha_Kucha_TipsResourcesExamples.pdf)
 
-### Latex
+### Latex (EF)
 
 <a href="https://storage.googleapis.com/instapage-user-media/cba104e6/6832348-0-screen2x.png"><img width=400
 align=right src="https://storage.googleapis.com/instapage-user-media/cba104e6/6832348-0-screen2x.png"></a>

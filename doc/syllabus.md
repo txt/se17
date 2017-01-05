@@ -137,14 +137,12 @@ Tim Menzies <img src="http://www.csc.ncsu.edu/enews/images/1770.jpg" align=right
 
 Effat Farhana 
 
-YYY <img src="imgx/xxx.jpg" align=right width=100>
-
 + Github id:  effat
 + E-mail: efarhan@ncsu.edu
   + Only use this email for private matters.
   + All other class communication should be via the class news group, listed after.
-+ Office hours: XXXX
-+ Office location: XXXX
++ Office hours: Wed 12:00 to 2pm
++ Office location: 1229B
 
 ____
 
