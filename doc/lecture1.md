@@ -171,6 +171,8 @@ _____
 
 ### Pecha Kucha
 
+20 slides, 20-30 secs each slide. For example: http://tiny.cc/timm7.
+
 Go to slides.google.com
 
 - Write some slides (20, max).
@@ -185,7 +187,7 @@ Go to slides.google.com
 https://docs.google.com/presentation/d/1GgwBtcyni0VXvm9PLzx3oQl8C4_lcdKNK8T2SWTohQI/pub?start=true&loop=false&delayms=20000&slide=id.p
  ```
 
-[Pecha Kucha: Tips, Resources & Examples])http://cmmr.usc.edu//Pecha_Kucha_TipsResourcesExamples.pdf)
+[Pecha Kucha: Tips, Resources & Examples](http://cmmr.usc.edu//Pecha_Kucha_TipsResourcesExamples.pdf)
 
 ### Latex (EF)
 
