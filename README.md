@@ -24,7 +24,7 @@ group project required following good software engineering
 practices throughout the semester.
 
 </td>
-<td align=center><img src="img/news.png">
+<td align=center><img width=150 src="img/news.png">
 </td><td align=center><img src="img/lectures.gif">
 </td><td align=center><img src="img/homework.png">
 </td><td align=center><img src="img/review.gif">
