@@ -11,18 +11,10 @@ _______
 
 # Home
 
-<center>
-<table width="100%" border=0 align=center>
+
+<table width="100%" border=0 align=right>
 <tr>
 <td rowspan=3>
-An introduction to software life cycle models; size estimation;
-cost and schedule estimation; project management; risk management;
-formal technical reviews; analysis, design, coding and testing
-methods; configuration management and change control; and software
-reliability estimation. Emphasis on large development projects. An
-group project required following good software engineering
-practices throughout the semester.
-
 </td>
 <td align=center><img  src="img/news.png">
 </td><td align=center><img src="img/lectures.gif">
@@ -31,14 +23,14 @@ practices throughout the semester.
 </td> </tr>
 <tr>
 <td align=center><b>Misc
-<img width=200 src="img/200x1.png"></b>
+<img width=65 src="img/200x1.png"></b>
 </td>
 <td align=center><b>Lectures
-<img width=200 src="img/200x1.png"></b>
+<img width=65 src="img/200x1.png"></b>
 </td><td align=center><b>Project
-<img width=200 src="img/200x1.png"></b>
+<img width=65 src="img/200x1.png"></b>
 </td><td align=center><b>Review
-<img width=200 src="img/200x1.png">
+<img width=65 src="img/200x1.png">
 </td></tr>
 <tr>
 <td valign=top  xwidth="100px">
@@ -61,4 +53,10 @@ practices throughout the semester.
 </td><td valign=top xwidth="100px">
 
 </tr></table>
-</center>
+An introduction to software life cycle models; size estimation;
+cost and schedule estimation; project management; risk management;
+formal technical reviews; analysis, design, coding and testing
+methods; configuration management and change control; and software
+reliability estimation. Emphasis on large development projects. An
+group project required following good software engineering
+practices throughout the semester.
