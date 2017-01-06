@@ -53,7 +53,7 @@ practices throughout the semester.
 <a href="doc/project.md">a. Project</a>
 <br><img     width=200 src="img/200x1.png">
 </td>
-<td align=center  align=top xwidth="100px>
+<td align=center   xwidth="100px>
 <a href="doc/review1.md">a. Review</a>
 <br><img width=200 src="img/200x1.png">
 </td>
