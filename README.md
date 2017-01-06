@@ -21,22 +21,16 @@ practices throughout the semester.
 
 <table width="100%" border=0 align=right>
 <tr>
-<td align=center><img  src="img/news.png">
-</td><td align=center><img src="img/lectures.gif">
-</td><td align=center><img src="img/homework.png">
-</td><td align=center><img src="img/review.gif">
-</td> </tr>
+<td align=center><img  src="img/news.png"><br><img     width=200 src="img/200x1.png"></td>
+<td align=center><img  src="img/lectures.gif"><br><img width=200 src="img/200x1.png"></td>
+<td align=center><img  src="img/homework.png"><br><img width=200 src="img/200x1.png"></td>
+<td align=center><img  src="img/review.gif"><br><  img width=200 src="img/200x1.png"></td>
+</tr>
 <tr>
-<td align=center><b>Misc
-<img width=65 src="img/200x1.png"></b>
-</td>
-<td align=center><b>Lectures
-<img width=65 src="img/200x1.png"></b>
-</td><td align=center><b>Project
-<img width=65 src="img/200x1.png"></b>
-</td><td align=center><b>Review
-<img width=65 src="img/200x1.png">
-</td></tr>
+<td align=center><b>Misc</b> </td>
+<td align=center><b>Lectures</b>
+</td><td align=center><b>Project></b>
+</td><td align=center><b>Review </td></tr>
 <tr>
 <td valign=top  xwidth="100px">
 
