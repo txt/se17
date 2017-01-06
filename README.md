@@ -24,7 +24,7 @@ practices throughout the semester.
 <td align=center><img  src="img/news.png"><br><img     width=200 src="img/200x1.png"></td>
 <td align=center><img  src="img/lectures.gif"><br><img width=200 src="img/200x1.png"></td>
 <td align=center><img  src="img/homework.png"><br><img width=200 src="img/200x1.png"></td>
-<td align=center><img  src="img/review.gif"><br><  img width=200 src="img/200x1.png"></td>
+<td align=center><img  src="img/review.gif"><br><img   width=200 src="img/200x1.png"></td>
 </tr>
 <tr>
 <td align=center><b>Misc</b> </td>
@@ -50,12 +50,6 @@ practices throughout the semester.
 <a href="doc/badsmells.md">b. Bad smells</a><br>
 <a href="doc/project.md">a. Project</a>
 </td><td valign=top xwidth="100px">
-
-</tr>
-<tr>
-<td colspan=4>
-<img width=900 src="img/200x1.png"></b>
-</td>
 </tr>
 
 </table>
