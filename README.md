@@ -24,21 +24,21 @@ group project required following good software engineering
 practices throughout the semester.
 
 </td>
-<td align=center><img width=150 src="img/news.png">
+<td align=center><img  src="img/news.png">
 </td><td align=center><img src="img/lectures.gif">
 </td><td align=center><img src="img/homework.png">
 </td><td align=center><img src="img/review.gif">
 </td> </tr>
 <tr>
 <td align=center><b>Misc
-<img width=150 src="img/200x1.png"></b>
+<img width=200 src="img/200x1.png"></b>
 </td>
 <td align=center><b>Lectures
-<img width=250 src="img/200x1.png"></b>
+<img width=200 src="img/200x1.png"></b>
 </td><td align=center><b>Project
-<img width=150 src="img/200x1.png"></b>
+<img width=200 src="img/200x1.png"></b>
 </td><td align=center><b>Review
-<img width=150 src="img/200x1.png">
+<img width=200 src="img/200x1.png">
 </td></tr>
 <tr>
 <td valign=top  xwidth="100px">
