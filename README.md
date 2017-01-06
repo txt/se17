@@ -33,24 +33,24 @@ practices throughout the semester.
 </td><td align=center><b>Review </td>
 </tr>
 <tr>
-<td valign=top  xwidth="100px">
+<td align=center valign=top  xwidth="100px">
 
 <a href="http://unbox.org/doc/Seven%20More%20Languages%20in%20Seven%20Weeks.pdf">Languages2</a><br>
 <a href="http://unbox.org/doc/Seven%20Languages%20in%20Seven%20Weeks%20A%20Pragmatic%20Guide%20to%20Learning%20Programming%20Languages.pdf">Languages1</a>
 </td>
-<td valign=top  xwidth="100px">
+<td align=center valign=top  xwidth="100px">
 
 <a href="doc/lecture2.md">b. What is SE?</a><br>
 <a href="doc/lecture1.md">a. Project tools</a><br>
 <a href="doc/lecture0.md">0. Intro</a>
 
-</td><td valign=top xwidth="100px">
+</td><td align=center valign=top xwidth="100px">
 
 <a href="https://github.com/cleebp/csc-510-group-g/blob/master/apr1/report/report.pdf">d. Clipit</a><br>
 <a href="https://github.com/sandz-in/csc510_group_l/blob/master/april/Report.pdf">c. Expenses</a><br>
 <a href="doc/badsmells.md">b. Bad smells</a><br>
 <a href="doc/project.md">a. Project</a>
-</td><td valign=top xwidth="100px">
+</td><td align=center  align=top xwidth="100px">
 </tr>
 
 </table>
