@@ -78,7 +78,7 @@ Frontiers of SE<br>
 <a href="doc/project.md">0. Project</a>
 <br><img     width=150 src="img/200x1.png">
 </td>
-<td align=center   xwidth="100px>
+<td align=center   valign=top xwidth="100px>
 <a href="doc/review1.md">a. Review</a>
 <br><img width=150 src="img/200x1.png">
 </td>
