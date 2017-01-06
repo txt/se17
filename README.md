@@ -11,6 +11,10 @@ _______
 
 # Home
 
+<center>
+<table width="100%" border=0 align=center>
+<tr>
+<td colspan=3>
 An introduction to software life cycle models; size estimation;
 cost and schedule estimation; project management; risk management;
 formal technical reviews; analysis, design, coding and testing
@@ -19,9 +23,7 @@ reliability estimation. Emphasis on large development projects. An
 group project required following good software engineering
 practices throughout the semester.
 
-<center>
-<table width="100%" border=0 align=center>
-<tr>
+</td>
 <td align=center><img src="img/news.png">
 </td><td align=center><img src="img/lectures.gif">
 </td><td align=center><img src="img/homework.png">
