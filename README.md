@@ -21,7 +21,7 @@ practices throughout the semester.
 
 <table width="100%" border=0 align=right>
 <tr>
-<td>
+<td colspan=4>
 <img width=900 src="img/200x1.png"></b>
 </td>
 </tr>
