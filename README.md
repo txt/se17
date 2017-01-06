@@ -14,7 +14,7 @@ _______
 <center>
 <table width="100%" border=0 align=center>
 <tr>
-<td colspan=3>
+<td rowspan=3>
 An introduction to software life cycle models; size estimation;
 cost and schedule estimation; project management; risk management;
 formal technical reviews; analysis, design, coding and testing
