@@ -131,6 +131,8 @@ of IEEE](https://www.ieee.org/conferences_events/conferences/publishing/template
 
 ## Project "Bad Smells"
 
+- Not contributing to the evaluation sessions of other groups
+    - 3,4,5 of your "chits" should be  "spent" by Jan30.
 - Not meeting 
      - Meet for 10 minutes tonight; prime the pumps with some intial idea
      - Meet tomorrow for an hour. Map out January, when you have to do what. Do it.
