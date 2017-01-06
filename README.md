@@ -41,16 +41,16 @@ practices throughout the semester.
 </td>
 <td align=center valign=top  xwidth="100px">
 
-<a href="doc/lecture2.md">b. What is SE?</a><br>
-<a href="doc/lecture1.md">a. Project tools</a><br>
+<a href="doc/lecture2.md">2. What is SE?</a><br>
+<a href="doc/lecture1.md">1. Project tools</a><br>
 <a href="doc/lecture0.md">0. Intro</a>
 <br><img     width=200 src="img/200x1.png">
 </td><td align=center valign=top xwidth="100px">
 
-<a href="https://github.com/cleebp/csc-510-group-g/blob/master/apr1/report/report.pdf">d. Clipit</a><br>
-<a href="https://github.com/sandz-in/csc510_group_l/blob/master/april/Report.pdf">c. Expenses</a><br>
-<a href="doc/badsmells.md">b. Bad smells</a><br>
-<a href="doc/project.md">a. Project</a>
+<a href="https://github.com/cleebp/csc-510-group-g/blob/master/apr1/report/report.pdf">3. Clipit</a><br>
+<a href="https://github.com/sandz-in/csc510_group_l/blob/master/april/Report.pdf">2. Expenses</a><br>
+<a href="doc/badsmells.md">1. Bad smells</a><br>
+<a href="doc/project.md">0. Project</a>
 <br><img     width=200 src="img/200x1.png">
 </td>
 <td align=center   xwidth="100px>
