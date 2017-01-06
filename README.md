@@ -25,6 +25,12 @@ practices throughout the semester.
 <center>
 <table border=0 align=center>
 <tr>
+<td align=center><img src="img/news.png">
+</td><td align=center><img src="img/lectures.gif">
+</td><td align=center><img src="img/homework.png">
+</td><td align=center><img src="img/review.gif">
+</td> </tr>
+<tr>
 <td align=center><b>Misc
 <img width=65 src="img/200x1.png"></b>
 </td>
@@ -35,12 +41,6 @@ practices throughout the semester.
 </td><td align=center><b>Review
 <img width=65 src="img/200x1.png">
 </td></tr>
-<tr>
-<td align=center><img src="img/news.png">
-</td><td align=center><img src="img/lectures.gif">
-</td><td align=center><img src="img/homework.png">
-</td><td align=center><img src="img/review.gif">
-</td> </tr>
 <tr>
 <td valign=top  xwidth="100px">
 
