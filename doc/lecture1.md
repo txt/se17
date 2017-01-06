@@ -181,10 +181,12 @@ Go to slides.google.com
 - File > Publish to web
 -  Edit link. 
        - Set `start=true`   (auto start's slides)
-       - Set `delayms=30000` (30 secs per slide)
+       - Set `delayms=20000` (20 secs per slide)
 
 ```
-https://docs.google.com/presentation/d/1GgwBtcyni0VXvm9PLzx3oQl8C4_lcdKNK8T2SWTohQI/pub?start=true&loop=false&delayms=20000&slide=id.p
+https://docs.google.com/presentation/d/
+1GgwBtcyni0VXvm9PLzx3oQl8C4_lcdKNK8T2SWTohQI/
+pub?start=true&loop=false&delayms=20000&slide=id.p
  ```
 
 [Pecha Kucha: Tips, Resources & Examples](http://cmmr.usc.edu//Pecha_Kucha_TipsResourcesExamples.pdf)
