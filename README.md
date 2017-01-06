@@ -52,8 +52,10 @@ practices throughout the semester.
 <a href="doc/badsmells.md">b. Bad smells</a><br>
 <a href="doc/project.md">a. Project</a>
 <br><img     width=200 src="img/200x1.png">
-</td><td align=center  align=top xwidth="100px>
-&nbsp;<br><img width=200 src="img/200x1.png">
+</td>
+<td align=center  align=top xwidth="100px>
+<a href="doc/review1.md">a. Review</a>
+<br><img width=200 src="img/200x1.png">
 </td>
 </tr>
 
