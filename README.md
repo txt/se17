@@ -31,14 +31,14 @@ practices throughout the semester.
 </td> </tr>
 <tr>
 <td align=center><b>Misc
-<img width=100 src="img/200x1.png"></b>
+<img width=150 src="img/200x1.png"></b>
 </td>
 <td align=center><b>Lectures
-<img width=100 src="img/200x1.png"></b>
+<img width=150 src="img/200x1.png"></b>
 </td><td align=center><b>Project
-<img width=100 src="img/200x1.png"></b>
+<img width=150 src="img/200x1.png"></b>
 </td><td align=center><b>Review
-<img width=100 src="img/200x1.png">
+<img width=150 src="img/200x1.png">
 </td></tr>
 <tr>
 <td valign=top  xwidth="100px">
