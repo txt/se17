@@ -38,34 +38,34 @@ practices throughout the semester.
 <!-- -------------------------------- -->
 
 Process<br>
-&nbsp;&nbsp;&star;&nsbp;<a href="doc/10process.md">process</a><br>
-&nbsp;&nbsp;&star;&nbsp;<a href="delayedusse%20effect">research note</a><br>
+&nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/10process.md">process</a><br>
+&nbsp;&nbsp;&rtrif;&nbsp;<a href="delayedusse%20effect">research note</a><br>
 Effort<br>
-&nbsp;&nbsp;&star;&nbsp;<a href="doc/50effort.md">estimate? or not?</a><br>
-&nbsp;&nbsp;&star;&nbsp;<a href="effor%20models">research note</a><br>
+&nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/50effort.md">estimate? or not?</a><br>
+&nbsp;&nbsp;&rtrif;&nbsp;<a href="effor%20models">research note</a><br>
 Planning<br>
-&nbsp;&nbsp;&star;&nbsp;<a href="https://goo.gl/fxMvtz">choice</a><br>
-&nbsp;&nbsp;&star;&nbsp;<a href="https://goo.gl/aLVvrT">requirements</a><br>
+&nbsp;&nbsp;&rtrif;&nbsp;<a href="https://goo.gl/fxMvtz">choice</a><br>
+&nbsp;&nbsp;&rtrif;&nbsp;<a href="https://goo.gl/aLVvrT">requirements</a><br>
 Analysis<br>
-&nbsp;&nbsp;&star;&nbsp;<a href="doc/40tdd.md">test-driven</a><br>
-&nbsp;&nbsp;&star;&nbsp;<a href="60notations.md">notations</a><br>
-&nbsp;&nbsp;&star;&nbsp;<a href="doc/20mystery.md">mystery</a><br>
-&nbsp;&nbsp;&star;&nbsp;<a href="doc/30architectures.md">architecture</a><br>
-&nbsp;&nbsp;&star;&nbsp;<a href="doc/35patterns.md">patterns</a><br>
-&nbsp;&nbsp;&star;&nbsp;<a href="doc/gendermag.md">assessment</a><br>
+&nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/40tdd.md">test-driven</a><br>
+&nbsp;&nbsp;&rtrif;&nbsp;<a href="60notations.md">notations</a><br>
+&nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/20mystery.md">mystery</a><br>
+&nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/30architectures.md">architecture</a><br>
+&nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/35patterns.md">patterns</a><br>
+&nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/gendermag.md">assessment</a><br>
 Coding<br>
-&nbsp;&nbsp;&star;&nbsp;<a href="github.md">github notes</a><br>
-&nbsp;&nbsp;&star;&nbsp;<a href="doc/langauges.md">languages</a><br>
-&nbsp;&nbsp;&star;&nbsp;<a href="doc/45closures.md">closures</a><br>
-&nbsp;&nbsp;&star;&nbsp;<a href="doc/31sql.md">databases</a><br>
-&nbsp;&nbsp;&star;&nbsp;<a href="my%20paper">bad smells</a><br>
-&nbsp;&nbsp;&star;&nbsp;testing<br>
-&nbsp;&nbsp;&star;&nbsp;<a href="doc/80functionalTesting.pdf">functional</a><br>
-&nbsp;&nbsp;&star;&nbsp;<a href="doc/81test.md">heuristics</a><br>
+&nbsp;&nbsp;&rtrif;&nbsp;<a href="github.md">github notes</a><br>
+&nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/langauges.md">languages</a><br>
+&nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/45closures.md">closures</a><br>
+&nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/31sql.md">databases</a><br>
+&nbsp;&nbsp;&rtrif;&nbsp;<a href="my%20paper">bad smells</a><br>
+&nbsp;&nbsp;&rtrif;&nbsp;testing<br>
+&nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/80functionalTesting.pdf">functional</a><br>
+&nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/81test.md">heuristics</a><br>
 Frontiers of SE<br>
-&nbsp;&nbsp;&star;&nbsp;11 groups of 20,000 SE papers<br>
-&nbsp;&nbsp;&star;&nbsp;Socio-technical systems<br>
-&nbsp;&nbsp;&star;&nbsp;Green SE<br>
+&nbsp;&nbsp;&rtrif;&nbsp;11 groups of 20,000 SE papers<br>
+&nbsp;&nbsp;&rtrif;&nbsp;Socio-technical systems<br>
+&nbsp;&nbsp;&rtrif;&nbsp;Green SE<br>
 
 
 <!-- -------------------------------- -->
