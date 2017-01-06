@@ -33,12 +33,56 @@ practices throughout the semester.
 <td align=center><b>Misc</b> </td>
 </tr>
 <tr>
-<td align=center valign=top  xwidth="100px">
+<td valign=top  xwidth="100px">
 
-<a href="doc/lecture2.md">2. What is SE?</a><br>
-<a href="doc/lecture1.md">1. Project tools</a><br>
-<a href="doc/lecture0.md">0. Intro</a>
-<br><img     width=200 src="img/200x1.png">
+<!-- -------------------------------- -->
+ <ul>
+<li><a href="doc/10process.md">process</a></li>
+<li><a href="delayedusse%20effect">research note</a></li>
+</ul></li>
+<li>effort
+<ul>
+<li><a href="doc/50effort.md">estimate? or not?</a></li>
+<li><a href="effor%20models">research note</a></li>
+</ul></li>
+<li>planning
+<ul>
+<li><a href="https://goo.gl/fxMvtz">choice</a></li>
+<li><a href="https://goo.gl/aLVvrT">requirements</a></li>
+</ul></li>
+<li>analysis
+<ul>
+<li><a href="doc/40tdd.md">test-driven</a></li>
+<li><a href="60notations.md">notations</a></li>
+<li><a href="doc/20mystery.md">mystery</a></li>
+<li><a href="doc/30architectures.md">architecture</a></li>
+<li><a href="doc/35patterns.md">patterns</a></li>
+<li><a href="doc/gendermag.md">assessment</a></li>
+</ul></li>
+<li>coding
+<ul>
+<li><a href="github.md">github notes</a></li>
+<li><a href="doc/langauges.md">languages</a></li>
+<li><a href="doc/45closures.md">closures</a></li>
+<li><a href="doc/31sql.md">databases</a></li>
+<li><a href="my%20paper">bad smells</a></li>
+</ul></li>
+<li>testing
+<ul>
+<li><a href="doc/80functionalTesting.pdf">functional</a></li>
+<li><a href="doc/81test.md">heuristics</a></li>
+</ul></li>
+<li>frontiers of SE
+<ul>
+<li>11 groups of 20,000 SE papers</li>
+<li>Socio-technical systems</li>
+<li>Green SE</li>
+</ul></li>
+</ul>       
+
+
+<!-- -------------------------------- -->
+
 </td><td align=center valign=top xwidth="100px">
 
 <a href="https://github.com/cleebp/csc-510-group-g/blob/master/apr1/report/report.pdf">3. Clipit</a><br>
