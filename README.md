@@ -11,13 +11,29 @@ _______
 
 # Home
 
-An introduction to software life cycle models; size estimation;
-cost and schedule estimation; project management; risk management;
-formal technical reviews; analysis, design, coding and testing
-methods; configuration management and change control; and software
-reliability estimation. Emphasis on large development projects. An
-group project required following good software engineering
-practices throughout the semester.
+The premise of this subject is that Software Engineering is the process of the:
+
++ design,
++ construction and
++ maintenance of
++ good enough
++ software,
++ given the available resources.
+
+The last point means that we are always trading off between what
+we want with what we need with what we've got. Software engineers,
+therefore are the people we look to:
+
++ Make and
++ justify
++ well-informed decisions
++ about trade-offs
++ in software engineering.
+
+This, in turn means that at any time, software engineering are aware
+of multiple possibilities and the reasons why we should be doing
+one, and not the others.
+
 
 <table width="100%" border=0 align=right>
 <tr>
@@ -36,7 +52,9 @@ practices throughout the semester.
 <td valign=top  xwidth="100px">
 
 <!-- -------------------------------- -->
-
+Introduction<br>
+&nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/lecture0.md">Hello!</a><br>
+&nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/lecture2.md">What is SE?</a><br>
 Process<br>
 &nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/10process.md">process</a><br>
 &nbsp;&nbsp;&rtrif;&nbsp;<a href="delayedusse%20effect">research note</a><br>
@@ -59,7 +77,7 @@ Coding<br>
 &nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/45closures.md">closures</a><br>
 &nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/31sql.md">databases</a><br>
 &nbsp;&nbsp;&rtrif;&nbsp;<a href="my%20paper">bad smells</a><br>
-testing<br>
+Testing<br>
 &nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/80functionalTesting.pdf">functional</a><br>
 &nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/81test.md">heuristics</a><br>
 Frontiers of SE<br>
@@ -72,9 +90,10 @@ Frontiers of SE<br>
 
 </td><td align=center valign=top xwidth="100px">
 
-<a href="https://github.com/cleebp/csc-510-group-g/blob/master/apr1/report/report.pdf">3. Clipit</a><br>
-<a href="https://github.com/sandz-in/csc510_group_l/blob/master/april/Report.pdf">2. Expenses</a><br>
-<a href="doc/badsmells.md">1. Bad smells</a><br>
+<a href="https://github.com/cleebp/csc-510-group-g/blob/master/apr1/report/report.pdf">4. Clipit</a><br>
+<a href="https://github.com/sandz-in/csc510_group_l/blob/master/april/Report.pdf">3. Expenses</a><br>
+<a href="doc/badsmells.md">2. Bad smells</a><br>
+<a href="doc/lecture1.md">1. Project tools</a><br>
 <a href="doc/project.md">0. Project</a>
 <br><img     width=150 src="img/200x1.png">
 </td>
