@@ -11,6 +11,9 @@ _______
 
 # Home
 
+_Every feature is an experiment._   
+-- Laurie Williams
+
 The premise of this subject is that Software Engineering is the process of the:
 design,
 construction and
@@ -18,7 +21,6 @@ maintenance of
 good enough
 software,
 given the available resources.
-
 The last point means that we are always trading off between what
 we want with what we need with what we've got. Software engineers,
 therefore are the people we look to:
@@ -27,7 +29,6 @@ justify
 well-informed decisions
 about trade-offs
 in software engineering.
-
 This, in turn means that at any time, software engineering are aware
 of multiple possibilities and the reasons why we should be doing
 one, and not the others.
