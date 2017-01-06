@@ -20,7 +20,7 @@ group project required following good software engineering
 practices throughout the semester.
 
 <center>
-<table border=0 align=center>
+<table width="100%" border=0 align=center>
 <tr>
 <td align=center><img src="img/news.png">
 </td><td align=center><img src="img/lectures.gif">
