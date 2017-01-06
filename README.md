@@ -28,9 +28,10 @@ practices throughout the semester.
 </tr>
 <tr>
 <td align=center><b>Misc</b> </td>
-<td align=center><b>Lectures</b>
-</td><td align=center><b>Project></b>
-</td><td align=center><b>Review </td></tr>
+<td align=center><b>Lectures</b></td>
+<td align=center><b>Project</b>
+</td><td align=center><b>Review </td>
+</tr>
 <tr>
 <td valign=top  xwidth="100px">
 
