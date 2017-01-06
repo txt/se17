@@ -112,7 +112,7 @@ See https://support.google.com/docs/answer/87809?hl=en
 [Introduction to crowd sourcing](https://docs.google.com/presentation/d/1B5Z8Ohf6xRdhLM6q49_z0PUjAHY15w9Pt3o8yADix8I/edit#slide=id.gc6f75fceb_0_5)
 
 
-### Talking to people
+### Talking to people (TM)
 
 Good news:
 
