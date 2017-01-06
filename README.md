@@ -21,11 +21,6 @@ practices throughout the semester.
 
 <table width="100%" border=0 align=right>
 <tr>
-<td colspan=4>
-<img width=900 src="img/200x1.png"></b>
-</td>
-</tr>
-<tr>
 <td align=center><img  src="img/news.png">
 </td><td align=center><img src="img/lectures.gif">
 </td><td align=center><img src="img/homework.png">
@@ -62,5 +57,11 @@ practices throughout the semester.
 <a href="doc/project.md">a. Project</a>
 </td><td valign=top xwidth="100px">
 
-</tr></table>
+</tr>
+<tr>
+<td colspan=4>
+<img width=900 src="img/200x1.png"></b>
+</td>
+</tr>
 
+</table>
