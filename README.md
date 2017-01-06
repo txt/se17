@@ -11,11 +11,16 @@ _______
 
 # Home
 
+An introduction to software life cycle models; size estimation;
+cost and schedule estimation; project management; risk management;
+formal technical reviews; analysis, design, coding and testing
+methods; configuration management and change control; and software
+reliability estimation. Emphasis on large development projects. An
+group project required following good software engineering
+practices throughout the semester.
 
 <table width="100%" border=0 align=right>
 <tr>
-<td rowspan=3>
-</td>
 <td align=center><img  src="img/news.png">
 </td><td align=center><img src="img/lectures.gif">
 </td><td align=center><img src="img/homework.png">
@@ -53,10 +58,4 @@ _______
 </td><td valign=top xwidth="100px">
 
 </tr></table>
-An introduction to software life cycle models; size estimation;
-cost and schedule estimation; project management; risk management;
-formal technical reviews; analysis, design, coding and testing
-methods; configuration management and change control; and software
-reliability estimation. Emphasis on large development projects. An
-group project required following good software engineering
-practices throughout the semester.
+
