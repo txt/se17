@@ -59,7 +59,7 @@ Coding<br>
 &nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/45closures.md">closures</a><br>
 &nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/31sql.md">databases</a><br>
 &nbsp;&nbsp;&rtrif;&nbsp;<a href="my%20paper">bad smells</a><br>
-&nbsp;&nbsp;&rtrif;&nbsp;testing<br>
+testing<br>
 &nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/80functionalTesting.pdf">functional</a><br>
 &nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/81test.md">heuristics</a><br>
 Frontiers of SE<br>
@@ -76,17 +76,17 @@ Frontiers of SE<br>
 <a href="https://github.com/sandz-in/csc510_group_l/blob/master/april/Report.pdf">2. Expenses</a><br>
 <a href="doc/badsmells.md">1. Bad smells</a><br>
 <a href="doc/project.md">0. Project</a>
-<br><img     width=200 src="img/200x1.png">
+<br><img     width=100 src="img/200x1.png">
 </td>
 <td align=center   xwidth="100px>
 <a href="doc/review1.md">a. Review</a>
-<br><img width=200 src="img/200x1.png">
+<br><img width=100 src="img/200x1.png">
 </td>
 <td align=center valign=top  xwidth="100px">
 
 <a href="http://unbox.org/doc/Seven%20More%20Languages%20in%20Seven%20Weeks.pdf">Languages2</a><br>
 <a href="http://unbox.org/doc/Seven%20Languages%20in%20Seven%20Weeks%20A%20Pragmatic%20Guide%20to%20Learning%20Programming%20Languages.pdf">Languages1</a>
-<br><img     width=200 src="img/200x1.png">
+<br><img     width=100 src="img/200x1.png">
 </td>
 </tr>
 
