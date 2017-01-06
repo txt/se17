@@ -34,7 +34,7 @@ practices throughout the semester.
 <img width=150 src="img/200x1.png"></b>
 </td>
 <td align=center><b>Lectures
-<img width=150 src="img/200x1.png"></b>
+<img width=250 src="img/200x1.png"></b>
 </td><td align=center><b>Project
 <img width=150 src="img/200x1.png"></b>
 </td><td align=center><b>Review
