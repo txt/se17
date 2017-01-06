@@ -19,9 +19,6 @@ reliability estimation. Emphasis on large development projects. An
 group project required following good software engineering
 practices throughout the semester.
 
-
-<img width=900 src="http://se16.unbox.org/_img/subjects.png">
-
 <center>
 <table border=0 align=center>
 <tr>
