@@ -54,7 +54,6 @@ practices throughout the semester.
 <br><img     width=200 src="img/200x1.png">
 </td><td align=center  align=top xwidth="100px>
 <br><img width=200 src="img/200x1.png">
-<td align=center><img  src="img/review.gif">
 </td>
 </tr>
 
