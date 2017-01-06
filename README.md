@@ -21,6 +21,11 @@ practices throughout the semester.
 
 <table width="100%" border=0 align=right>
 <tr>
+<td>
+<img width=900 src="img/200x1.png"></b>
+</td>
+</tr>
+<tr>
 <td align=center><img  src="img/news.png">
 </td><td align=center><img src="img/lectures.gif">
 </td><td align=center><img src="img/homework.png">
@@ -31,7 +36,13 @@ practices throughout the semester.
 <img width=65 src="img/200x1.png"></b>
 </td>
 <td align=center><b>Lectures
-<img width=65 src="img/200x1.png"></b>
+An introduction to software life cycle models; size estimation;
+cost and schedule estimation; project management; risk management;
+formal technical reviews; analysis, design, coding and testing
+methods; configuration management and change control; and software
+reliability estimation. Emphasis on large development projects. An
+group project required following good software engineering
+practices throughout the semester.<img width=65 src="img/200x1.png"></b>
 </td><td align=center><b>Project
 <img width=65 src="img/200x1.png"></b>
 </td><td align=center><b>Review
