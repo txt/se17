@@ -23,8 +23,8 @@ software,
 given the available resources.
 So:
 
-- programmers are aware they are building one system
-- engineers are awware they are exploring many alternate systems (and the  reasons why we should be doing one, and not the others). 
+- programmers build one system
+- engineers explore many alternatives to learn which one is (currently) the best.
 
 This  means that SE is an <u>**experimental discipline**</u>
 where engineers are always testing  trade offs between what
