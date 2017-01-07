@@ -14,7 +14,10 @@ _______
 _Every feature is an experiment._   
 -- Laurie Williams
 
-One premise of this subject is that Software Engineering is the process of the
+- Programmers think they are building one system
+- Engineers know they are always checking current choices while (sometimes) exploring the alternatives.
+
+Software Engineering is the process of the
 design,
 construction and
 maintenance of
@@ -24,18 +27,13 @@ given the available resources.
 SE is an <u>**experimental discipline**</u>
 where engineers are always testing  trade offs between what
 they want and  what they need and  what they've got. 
-It is easy to check if you are working with  such an  engineering.
-Just ask them to 
+It is easy to check if you are working with  such an  engineer:
+just ask them to 
 make and
 justify
 well-informed decisions
 about trade-offs
 in software engineering.
-
-In summary:
-
-- programmers think they are building one system
-- engineers know they are always checking current choices while (sometimes) exploring the alternatives.
 
 <table width="100%" border=0 align=right>
 <tr>
