@@ -24,7 +24,7 @@ given the available resources.
 So:
 
 - programmers build one system
-- engineers explore many alternatives to learn which one is (currently) the best.
+- engineers explore many alternatives to learn which one is (currently) the best to implement/maintain/enhance.
 
 This  means that SE is an <u>**experimental discipline**</u>
 where engineers are always testing  trade offs between what
