@@ -69,7 +69,7 @@ Effort:
 <li>
 Planning:
 <a href="https://goo.gl/fxMvtz">choice</a>
-| <a href="https://goo.gl/aLVvrT">requirements</a><br>
+| <a href="https://goo.gl/aLVvrT">requirements</a>>
 | <a href="xxx">trading off</a><br>
 <li>
 Analysis:
@@ -77,18 +77,18 @@ Analysis:
 | <a href="doc/20mystery.md">mystery</a>
 | <a href="doc/30architectures.md">architecture</a>
 | <a href="doc/35patterns.md">patterns</a>
-| <a href="doc/gendermag.md">assessment</a><br>
+| <a href="doc/gendermag.md">assessment</a>
 <li>
 Coding:
 <a href="github.md">github</a>
 | <a href="doc/langauges.md">languages</a>
 | <a href="doc/45closures.md">closures</a>
 | <a href="doc/31sql.md">databases</a>
-| <a href="https://arxiv.org/abs/1609.03614">bad smells</a><br>
+| <a href="https://arxiv.org/abs/1609.03614">bad smells</a>
 <li>
 Testing:
 <a href="doc/80functionalTesting.pdf">functional</a>
-| <a href="doc/81test.md">heuristics</a><br>
+| <a href="doc/81test.md">heuristics</a>
 
 <li>Frontiers of SE:
 20,000 SE papers
