@@ -70,6 +70,7 @@ Effort:
 Planning:
 <a href="https://goo.gl/fxMvtz">choice</a>
 | <a href="https://goo.gl/aLVvrT">requirements</a><br>
+| <a href="xxx">trading off</a><br>
 <li>
 Analysis:
 <a href="doc/60notations.md">notations</a>
