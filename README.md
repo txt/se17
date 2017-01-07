@@ -77,7 +77,7 @@ Analysis:
 | <a href="doc/20mystery.md">mystery</a>
 | <a href="doc/30architectures.md">architecture</a>
 | <a href="doc/35patterns.md">patterns</a>
-| <a href="doc/gendermag.md">assessment</a>
+| <a href="doc/gendermag.md">assess</a>
 <li>
 Coding:
 <a href="github.md">github</a>
