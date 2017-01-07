@@ -52,11 +52,12 @@ one, and not the others.
 
 <!-- -------------------------------- -->
 Introduction<br>
-&nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/lecture0.md">Hello!</a><br>
-&nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/lecture2.md">What is SE?</a><br>
+&nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/lecture0.md">Hello!</a> |
+			  <a href="doc/lecture2.md">What is SE?</a><br>
 Process<br>
-&nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/10process.md">process</a><br>
-&nbsp;&nbsp;&rtrif;&nbsp;<a href="https://arxiv.org/abs/1609.04886">hard to make changes?</a><br>
+&nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/10process.md">process</a> |
+<a href="doc/40tdd.md">test-driven</a>
+<a href="https://arxiv.org/abs/1609.04886">hard to make changes?</a><br>
 Effort<br>
 &nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/50effort.md">estimate? or not?</a><br>
 &nbsp;&nbsp;&rtrif;&nbsp;<a href="https://arxiv.org/abs/1612.03240">hard to estimate size?</a><br>
@@ -64,7 +65,6 @@ Planning<br>
 &nbsp;&nbsp;&rtrif;&nbsp;<a href="https://goo.gl/fxMvtz">choice</a><br>
 &nbsp;&nbsp;&rtrif;&nbsp;<a href="https://goo.gl/aLVvrT">requirements</a><br>
 Analysis<br>
-&nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/40tdd.md">test-driven</a><br>
 &nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/60notations.md">notations</a><br>
 &nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/20mystery.md">mystery</a><br>
 &nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/30architectures.md">architecture</a><br>
