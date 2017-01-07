@@ -75,7 +75,7 @@ Coding<br>
 | <a href="doc/langauges.md">languages</a>
 | <a href="doc/45closures.md">closures</a>
 | <a href="doc/31sql.md">databases</a>
-| <a href="https://arxiv.org/abs/1609.03614">prioritizing bad smells</a><br>
+| <a href="https://arxiv.org/abs/1609.03614">bad smells</a><br>
 Testing<br>
 &nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/80functionalTesting.pdf">functional</a>
 | <a href="doc/81test.md">heuristics</a><br>
