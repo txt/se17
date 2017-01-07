@@ -21,15 +21,16 @@ maintenance of
 good enough
 software,
 given the available resources.
+SE is an <u>**experimental discipline**</u>
+where engineers are always testing  trade offs between what
+they want and  what they need and  what they've got. 
 So:
 
 - programmers build one system
 - engineers explore many alternatives to learn which one is (currently) the best to implement/maintain/enhance.
 
-This  means that SE is an <u>**experimental discipline**</u>
-where engineers are always testing  trade offs between what
-they want and  what they need and  what they've got. Software engineers,
-therefore are the people we look to
+It is easy to check if you are working with  such an  engineering.
+Just ask them to 
 make and
 justify
 well-informed decisions
