@@ -69,7 +69,7 @@ Effort:
 <li>
 Planning:
 <a href="https://goo.gl/fxMvtz">choice</a>
-| <a href="https://goo.gl/aLVvrT">requirements</a>>
+| <a href="https://goo.gl/aLVvrT">requirements</a>
 | <a href="xxx">trading off</a><br>
 <li>
 Analysis:
