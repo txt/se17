@@ -14,7 +14,7 @@ _______
 _Every feature is an experiment._   
 -- Laurie Williams
 
-The premise of this subject is that Software Engineering is the process of the
+One premise of this subject is that Software Engineering is the process of the
 design,
 construction and
 maintenance of
@@ -32,7 +32,6 @@ in software engineering.
 This, in turn means that at any time, software engineering are aware
 of multiple possibilities and the reasons why we should be doing
 one, and not the others.
-
 
 <table width="100%" border=0 align=right>
 <tr>
