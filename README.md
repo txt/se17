@@ -21,9 +21,10 @@ maintenance of
 good enough
 software,
 given the available resources.
-The last point means that we are always trading off between what
-we want with what we need with what we've got. Software engineers,
-therefore are the people we look to:
+The last point means that SE is an **experimental discipline**
+where engineers are always testing  trade offs between what
+they want and  what they need and  what they've got. Software engineers,
+therefore are the people we look to
 make and
 justify
 well-informed decisions
