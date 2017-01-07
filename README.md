@@ -54,42 +54,42 @@ one, and not the others.
 <ul>
 <li>
 Introduction:
-&nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/lecture0.md">Hello!</a> 
+<a href="doc/lecture0.md">Hello!</a> 
 | <a href="doc/lecture2.md">What is SE?</a>
 <li>
 Process:
-&nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/10process.md">process</a>
+<a href="doc/10process.md">process</a>
 | <a href="doc/40tdd.md">test-driven</a>
 | <a href="https://arxiv.org/abs/1609.04886">hard to change?</a>
 <li>
 Effort:
-&nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/50effort.md">estimate? or not?</a>
+<a href="doc/50effort.md">estimate? or not?</a>
 | <a href="https://arxiv.org/abs/1612.03240">hard to estimate size?</a>
 <li>
 Planning:
-&nbsp;&nbsp;&rtrif;&nbsp;<a href="https://goo.gl/fxMvtz">choice</a>
+<a href="https://goo.gl/fxMvtz">choice</a>
 | <a href="https://goo.gl/aLVvrT">requirements</a><br>
 <li>
 Analysis:
-&nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/60notations.md">notations</a>
+<a href="doc/60notations.md">notations</a>
 | <a href="doc/20mystery.md">mystery</a>
 | <a href="doc/30architectures.md">architecture</a>
 | <a href="doc/35patterns.md">patterns</a>
 | <a href="doc/gendermag.md">assessment</a><br>
 <li>
 Coding:
-&nbsp;&nbsp;&rtrif;&nbsp;<a href="github.md">github</a>
+<a href="github.md">github</a>
 | <a href="doc/langauges.md">languages</a>
 | <a href="doc/45closures.md">closures</a>
 | <a href="doc/31sql.md">databases</a>
 | <a href="https://arxiv.org/abs/1609.03614">bad smells</a><br>
 <li>
 Testing:
-&nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/80functionalTesting.pdf">functional</a>
+<a href="doc/80functionalTesting.pdf">functional</a>
 | <a href="doc/81test.md">heuristics</a><br>
 
 <li>Frontiers of SE:
-&nbsp;&nbsp;&rtrif;&nbsp;20,000 SE papers
+20,000 SE papers
 | Socio-technical
 | Green SE
 </ul>
