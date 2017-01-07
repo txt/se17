@@ -24,11 +24,6 @@ given the available resources.
 SE is an <u>**experimental discipline**</u>
 where engineers are always testing  trade offs between what
 they want and  what they need and  what they've got. 
-So:
-
-- programmers build one system
-- engineers explore many alternatives to learn which one is (currently) the best to implement/maintain/enhance.
-
 It is easy to check if you are working with  such an  engineering.
 Just ask them to 
 make and
@@ -36,6 +31,11 @@ justify
 well-informed decisions
 about trade-offs
 in software engineering.
+
+In summary:
+
+- programmers think they are building one system
+- engineers know they are always checking current choices while (sometimes) exploring the alternatives.
 
 <table width="100%" border=0 align=right>
 <tr>
