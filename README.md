@@ -21,7 +21,12 @@ maintenance of
 good enough
 software,
 given the available resources.
-The last point means that SE is an **experimental discipline**
+So:
+
+- programmers are aware they are building one system
+- engineers are awware they are exploring many alternate systems (and the  reasons why we should be doing one, and not the others). 
+
+This  means that SE is an <u>**experimental discipline**</u>
 where engineers are always testing  trade offs between what
 they want and  what they need and  what they've got. Software engineers,
 therefore are the people we look to
@@ -30,9 +35,6 @@ justify
 well-informed decisions
 about trade-offs
 in software engineering.
-This, in turn means that at any time, software engineering are aware
-of multiple possibilities and the reasons why we should be doing
-one, and not the others.
 
 <table width="100%" border=0 align=right>
 <tr>
