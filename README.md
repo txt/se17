@@ -57,7 +57,7 @@ Introduction<br>
 Process<br>
 &nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/10process.md">process</a>
 | <a href="doc/40tdd.md">test-driven</a>
-| <a href="https://arxiv.org/abs/1609.04886">hard to make changes?</a><br>
+| <a href="https://arxiv.org/abs/1609.04886">hard to change?</a><br>
 Effort<br>
 &nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/50effort.md">estimate? or not?</a>
 | <a href="https://arxiv.org/abs/1612.03240">hard to estimate size?</a><br>
@@ -71,7 +71,7 @@ Analysis<br>
 | <a href="doc/35patterns.md">patterns</a>
 | <a href="doc/gendermag.md">assessment</a><br>
 Coding<br>
-&nbsp;&nbsp;&rtrif;&nbsp;<a href="github.md">github notes</a>
+&nbsp;&nbsp;&rtrif;&nbsp;<a href="github.md">github</a>
 | <a href="doc/langauges.md">languages</a>
 | <a href="doc/45closures.md">closures</a>
 | <a href="doc/31sql.md">databases</a>
@@ -80,8 +80,8 @@ Testing<br>
 &nbsp;&nbsp;&rtrif;&nbsp;<a href="doc/80functionalTesting.pdf">functional</a>
 | <a href="doc/81test.md">heuristics</a><br>
 Frontiers of SE<br>
-&nbsp;&nbsp;&rtrif;&nbsp;11 groups of 20,000 SE papers
-| Socio-technical systems
+&nbsp;&nbsp;&rtrif;&nbsp;20,000 SE papers
+| Socio-technical
 | Green SE<br>
 
 
