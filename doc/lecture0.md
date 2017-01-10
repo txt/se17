@@ -31,7 +31,6 @@ lot of things there are to learn.
 <img width=900 src="http://se16.unbox.org/_img/subjects.png">
 
 <center>
-<img width=700 src="../img/tools.png">
 
 <img width=900 src="../img/tiobe.png">
 
