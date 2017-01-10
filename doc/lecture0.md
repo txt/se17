@@ -33,7 +33,7 @@ lot of things there are to learn.
 <center>
 <img width=700 src="../img/tools.png">
 
-<img width=700 src="../img/tiobe.png">
+<img width=900 src="../img/tiobe.png">
 
 <img width=700 src="../img/nextLanguage.png">
 
