@@ -30,6 +30,17 @@ lot of things there are to learn.
 
 <img width=900 src="http://se16.unbox.org/_img/subjects.png">
 
+<center>
+<img width=900 src="../img/tools.png">
+
+<img width=900 src="../img/tiobe.png">
+
+<img width=900 src="../img/nextLanguage.png">
+
+(Empirical Analysis of Programming Language Adoption
+Leo A. Meyerovich, Ariel Rabkin, OOPSLA ’13)
+</center>
+
 <a href="http://csrankings.org/"><img width=900 src="../img/number7.png"></a>
 
 
