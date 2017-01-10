@@ -41,6 +41,7 @@ Leo A. Meyerovich, Ariel Rabkin, OOPSLA ’13)
 
 <a href="http://csrankings.org/"><img width=900 src="../img/number7.png"></a>
 
+<img width=900 src="https://www.csc.ncsu.edu/enews/images2/features/1952-large.jpg">
 
 
 <a href="https://www.amazon.com/Perspectives-Data-Science-Software-Engineering/dp/0128042060"><img 
