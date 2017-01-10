@@ -28,21 +28,33 @@ and never dream of regretting. Learning is the only thing for you. Look what a
 lot of things there are to learn.  
 -- T.H. White (The Once and Future King)
 
+## Grad subject structure (sample)
+
 <img width=900 src="http://se16.unbox.org/_img/subjects.png">
 
-<center>
+## Q: Which language is best?
+
+A: none of them.
+
 <img width=900 src="../img/tiobe.png">
 
-(Empirical Analysis of Programming Language Adoption
-Leo A. Meyerovich, Ariel Rabkin, OOPSLA ’13)
+And the language you use next is probably not the one you are using now:
+
+- Empirical Analysis of Programming Language Adoption Leo A. Meyerovich, Ariel Rabkin, OOPSLA ’13.
 
 <img width=700 src="../img/nextLanguage.png">
-</center>
+
+## About NC State SE
+
+We're number one! Sort of!
 
 <a href="http://csrankings.org/"><img width=900 src="../img/number7.png"></a>
 
+Largest percent female faculty in CS  in the country:
+
 <img width=900 src="https://www.csc.ncsu.edu/enews/images2/features/1952-large.jpg">
 
+If you want to know our SE work:
 
 <a href="https://www.amazon.com/Perspectives-Data-Science-Software-Engineering/dp/0128042060"><img 
 width=250 src="http://menzies.us/img/perspectivesBook.jpg"></a>
@@ -51,6 +63,9 @@ width=250 src="http://menzies.us/img/asdbookCover.png"></a>
 <a href="https://www.amazon.com/Sharing-Data-Models-Software-Engineering/dp/0124172954"><img 
 width=250 src="http://menzies.us/img/shareBookCover.png"></a> 
 
+## About me
+
+http://menzies.us
 
 <a href="http://menzies.us"><img src="../img/me.png"></a>
 
