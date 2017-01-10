@@ -135,7 +135,7 @@ Tim Menzies <img src="http://www.csc.ncsu.edu/enews/images/1770.jpg" align=right
 ### Tutor
 
 
-Effat Farhana 
+Effat Farhana <img src="../img/gta.jpg" align=right width=100>
 
 + Github id:  effat
 + E-mail: efarhan@ncsu.edu
