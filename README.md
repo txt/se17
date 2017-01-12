@@ -15,7 +15,7 @@ _Every feature is an experiment._
 -- Laurie Williams
 
 - Programmers think they are building one system
-- Engineers know they are always checking current choices while (sometimes) exploring the alternatives.
+- Great engineers know they are always checking current choices while (sometimes) exploring the alternatives.
 
 Software Engineering is the process of the
 design,
