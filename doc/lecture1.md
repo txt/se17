@@ -7,7 +7,7 @@
 
 _______
 
-# Lecture1
+# Lecture001
 
 Before we get down to SE theory, our first
 lectures will explore the tools and techniques
