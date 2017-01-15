@@ -116,6 +116,7 @@ Testing:
 <a href="https://www.youtube.com/watch?v=XiJA7_Sw9aM">BestDemoEver</a><br>
 <a href="https://www.youtube.com/watch?v=wwoWei-GAPo">Go!</a><br>
 <a href="https://www.youtube.com/watch?v=AuXCc7WSczM">Smalltalk</a><br>
+<a href="https://www.destroyallsoftware.com/talks/wat">Wat</a><br>
 <a href="https://www.youtube.com/watch?v=nIonZ6-4nuU">Fast feedback</a><br>
 <a href="https://www.youtube.com/watch?v=rRbY3TMUcgQ">Outlaw</a><br>
 <a href="https://www.youtube.com/watch?v=nKIu9yen5nc">Rockstars</a><br>
