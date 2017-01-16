@@ -101,7 +101,7 @@ Testing:
 
 </td><td align=center valign=top xwidth="100px">
 
-<a href="doc/usingMT.pdf">5. Using MT</a><br>
+<a href="img/usingMT.pdf">5. Using MT</a><br>
 <a href="https://github.com/cleebp/csc-510-group-g/blob/master/apr1/report/report.pdf">4. Clipit</a><br>
 <a href="https://github.com/sandz-in/csc510_group_l/blob/master/april/Report.pdf">3. Expenses</a><br>
 <a href="doc/badsmells.md">2. Bad smells</a><br>
