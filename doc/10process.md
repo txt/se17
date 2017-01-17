@@ -1,3 +1,13 @@
+
+&nbsp;&nbsp;&nbsp;&nbsp;[home](http://tiny.cc/se17) | 
+[syllabus](https://github.com/txt/se17/blob/master/doc/syllabus.md) | 
+[submit](http://tiny.cc/se17give) |
+[chat](https://se17.slack.com/)  
+[<img width=900 src="https://raw.githubusercontent.com/txt/se17/master/img/se17.png">](http://tiny.cc/se17)   <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[&copy; 2017](https://github.com/txt/se17/blob/master/LICENSE.md) tim&commat;menzies.us<br>
+
+_______
+
 # Some Process Notes
 
 Software development costs (from Brookes' Mythical Man Month (2) text).
@@ -7,7 +17,7 @@ Software development costs (from Brookes' Mythical Man Month (2) text).
 + 1/4 unit test (testing code written by one programmer);
 + 1/4 system test (test code assemblies built by _"N"_ programmers).
 
-+ (2) Fred Brooks, The Mythical Man-Month: Essays on Software Engineering.
+(2) Fred Brooks, The Mythical Man-Month: Essays on Software Engineering.
 Addison-Wesley, 1975.
 
 
@@ -43,7 +53,7 @@ His solution? More documentation!
    analysts, or program designers are willing to do
    if left to their own devices.
 
-+ (1) Winston W. Rovce ,
+(1) Winston W. Rovce ,
 Managing the Development of Large Software Systems,
 ICSE'87
 
