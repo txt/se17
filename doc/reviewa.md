@@ -9,12 +9,15 @@ _______
 
 # Review Questions 1/19/2017
 
-Softare process
+Test-drven Development
 
 -    According to Kent Beck, why are feedback loops in software development  so important?
 -    When building tests, what is a _mock_ and why are such mocks important?
 -    What is red green test?
 -    What are advantages and disadvantages of test-driven development?
+
+Process models
+
 -    Describe the four parts of the v-diagrams?
      -     Which part(s) of the v-diagram takes most time?
      -     Which part(s) take least time?
@@ -30,25 +33,23 @@ Softare process
 
 Surveys
 
--    What are 3 privacy concerns of participants in a survey?
+-    An individual in a survey has three rights.  In 2 lines (each) describe two survey procedures: one that maintains and one that violates
+     -   a subject’s right not to participate.
+     -   a subject’s right to privacy.
+     -   a subject’s right to be forgotten.
 -    For each of the following, use 2-5 lines to define and describe:
      -  Semi-structured or structured interviews
      -  Questionaires
-     -   Focus groups
+     -  Focus groups
      -  Think aloud
-     -  data analysis
--    Pick any two of (2a,2b,2c,2d,2e) and describe how one can be **better** than the other.
--    Pick any two of (2a,2b,2c,2d,2e) and describe how one can be **worse** than the other.
--    In 2 lines (each) describe survey procedure (5a) and procedure (5b) that maintains or violates a subject’s right not to participate.
--   In 2 lines (each) describe survey procedure (6a) and procedure (6b) that maintains or violates a subject’s right to privacy.
--   In 2 lines (each) describe survey procedure (7a) and procedure (7b) that maintains or violates a subject’s right to be forgotten.
+     -  Data analysis (using data mining)
+-    Pick any two of the above survery methods  and describe how one can be **better** than the other.
+-    Pick any two of the above survey methods and describe one can be **worse** than the other.
 
-[9:59]  
-Review Ques 1/12/2017
 
-[9:59]  
-1)    What is the V diagram for s/w engg? Describe its component.
-2)    Who are stake holders?
-3)    What is non functional requirement of stakeholders?
-4)    Assume you are assigned to develop a website of CSC department. Describe different solution for different stakeholders.
-5)    What is feature option? Assume you have to design the architecture of a mobile phone. What will be the feature options in this context?
+Stakeholders
+
+-   Who are stake holders?
+-   What is non functional requirement of stakeholders?
+-   Assume you are assigned to develop a website of CSC department. Describe different solution for different stakeholders.
+-   What is feature option? Assume you have to design the architecture of a mobile phone. What will be the feature options in this context?
