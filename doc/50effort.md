@@ -175,7 +175,6 @@ Demystifying and improving expert estimation."
 Simula Research Laboratory-by thinking constantly
 about it (2009): 381-404.
 
-____
 
 ## Strategies
 
@@ -432,7 +431,6 @@ More details:
 
 ![cocomoParems](../img/cocomoParams.png)
 
-_____
 
 Usual values:
 
@@ -469,7 +467,6 @@ _  = None;  Coc2tunings = [[
 'time',           _,    _, 1.00, 1.11, 1.29, 1.63]]
 ```
 
-____
 
 
 
