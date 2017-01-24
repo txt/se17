@@ -1,4 +1,3 @@
-
 &nbsp;&nbsp;&nbsp;&nbsp;[home](http://tiny.cc/se17) | 
 [syllabus](https://github.com/txt/se17/blob/master/doc/syllabus.md) | 
 [submit](http://tiny.cc/se17give) |
@@ -7,6 +6,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[&copy; 2017](https://github.com/txt/se17/blob/master/LICENSE.md) tim&commat;menzies.us<br>
 
 _______
+
+
 
 # Some Process Notes
 

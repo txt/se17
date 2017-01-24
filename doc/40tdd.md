@@ -1,5 +1,3 @@
-
-
 &nbsp;&nbsp;&nbsp;&nbsp;[home](http://tiny.cc/se17) | 
 [syllabus](https://github.com/txt/se17/blob/master/doc/syllabus.md) | 
 [submit](http://tiny.cc/se17give) |
