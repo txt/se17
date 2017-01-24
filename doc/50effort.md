@@ -16,12 +16,12 @@ How much effort does it take to build software? Is
 this an important question? Is this an answerable question?
 
 According to the extensive systematic review by
-Jorgensen and Shepperd[^Js07], developing new
+Jorgensen and Shepperd, developing new
 estimation models is the biggest research topic in
 SEE since 1980s.
 
 
-[^Js07]: M. Jorgensen and M. Shepperd, "A Systematic
+- M. Jorgensen and M. Shepperd, "A Systematic
 Review of Software Development Cost Estimation
 Studies," IEEE Trans. Software Eng., vol. 33, no. 1,
 pp. 33-53, Jan. 2007.
@@ -38,7 +38,9 @@ When projects start running out of budget, bad things happen.
 The first thing to go is all pretense of quality assurance
 Finally, the whole project can get canceled.
 
-e.g. Software to control shuttle refurbishment "To
+e.g. Software to control shuttle refurbishment:
+
+-  "To
 gain control over its finances, NASA last week
 scuttled a new checkout and launch control system
 (CLCS) for the space shuttle.  A recent assessment
@@ -46,12 +48,11 @@ of the CLCS, which the space agency originally
 estimated would cost $206 million to field,
 estimated that costs would swell to between $488
 million and $533 million by the time the project was
-completed.  – June 11 2003, Computer News
+completed."  – June 11 2003, Computer News
 
 ![clsc](../img/clsc.png)
 
 
-____
 
 ## The Problem
 
@@ -105,17 +106,17 @@ Jorgensen & Gruschke:
 
 + commercial estimation
   “gurus” rarely use lessons from past projects
-  to improve their future estimates [^Jg09].
+  to improve their future estimates (see Jorgensen).
 
 When engineers fail to revise their beliefs, this
   leads to poor estimates (see examples
-  in [^Jg09]).
+  in Passos).
 
-[^Pb13]: Carol Passos, Ana Paula Braun, Daniela
+-  Carol Passos, Ana Paula Braun, Daniela
 S. Cruzes, and Manoel Mendonca. Analyzing the impact
 of beliefs in software project practices. In
 ESEM’11, 2011.
-[^Jg09]: M. Jørgensen and
+-  M. Jørgensen and
 T.M. Gruschke. The impact of lessons learned
 sessions on effort estimation and uncertainty
 assessments. Software Engineering, IEEE Transactions
@@ -160,7 +161,7 @@ Methods
 
 - _Delphi/Expert methods_ :  use human expertise
 (possibly augmented with process guidelines, checklists, and data) to
-generate predictions [^jorh09a]
+generate predictions (see Jorgensen).
       - good for producing one estimate, not a range of estimates)'
 - _Algorithmic/Model-based methods_ : build models via data mining or
 		via expert intuition then make use those models to make predictions about new
@@ -168,7 +169,7 @@ generate predictions [^jorh09a]
       - good for finding the uncertainty in an estimate).		
 - _Combo_ : both the above.
 
-[^jorh09a]: Jørgensen, Magne, and Stein
+- Jørgensen, Magne, and Stein
 Grimstad. "Software development effort estimation:
 Demystifying and improving expert estimation."
 Simula Research Laboratory-by thinking constantly
@@ -218,11 +219,11 @@ ____
 
 ### Spiral
 
-In 1986 [^spiral] Barry Boehm proposed a
+In 1986  Barry Boehm proposed a
 modification to the Waterfall model called the
 [spiral model](https://www.dimap.ufrn.br/~jair/ES/artigos/SpiralModelBoehm.pdf).
 
-[^spiral]: Boehm B, "A Spiral Model of Software Development and Enhancement", IEEE Computer, IEEE, 21(5):61-72, May 1988
+-  Boehm B, "A Spiral Model of Software Development and Enhancement", IEEE Computer, IEEE, 21(5):61-72, May 1988
 
 Three important features:
 
@@ -305,7 +306,6 @@ Not recommended when:
 	    Delphi-based methods
 	  
 
-____
 
 ## Tactics
 
@@ -329,7 +329,7 @@ From Wikipedia:
 Poorly studied. Only a handful of studies. Rare exception:
 
 + A study by
-  Moløkken-Østvold and Haugen[^agile] found that
+  Moløkken-Østvold and Haugen found that
   [the] set of control tasks in the same project,
   estimated by individual experts, achieved similar
   estimation accuracy as the planning poker
@@ -340,8 +340,8 @@ Poorly studied. Only a handful of studies. Rare exception:
   perfectly on target.
 
 
-[^agile]: K Moløkken-Østvold, NC Haugen (10–13 April 2007). "Combining Estimates with Planning Poker—An Empirical Study". 18th Australian Software Engineering Conference (IEEE): 349–58. doi:10.1109/ASWEC.2007.15.
-[^others]: Google scholar search of "software effort estimation", since 2012](https://goo.gl/kyjxVH)
+-  K Moløkken-Østvold, NC Haugen (10–13 April 2007). "Combining Estimates with Planning Poker—An Empirical Study". 18th Australian Software Engineering Conference (IEEE): 349–58. doi:10.1109/ASWEC.2007.15.
+- Google scholar search of "software effort estimation", since 2012](https://goo.gl/kyjxVH)
 
 
 
@@ -393,9 +393,9 @@ assumption, give the low cost of modern computers.
 
 E.g. here are the COCOMO set. Do not treat them
 as gospel, just illustrative of the range of factors
-that might influence a software project
+that might influence a software project:
 
-[^cocomo]: Boehm, Barry W., Ray Madachy, and Bert
+- Boehm, Barry W., Ray Madachy, and Bert
 Steece. Software cost estimation with Cocomo II with
 Cdrom. Prentice Hall PTR, 2000.
 
@@ -564,19 +564,17 @@ of past experiences in order to find solutions to current
 problems. 
 
 CBR was first motivated by appeals to human
-cognition. According to Kolodner [^kol] and Shank
-[^shank77], humans do not base their decisions on
+cognition. According to Kolodner and Shank, humans do not base their decisions on
 complex reductive analysis, but on an instantaneous
 survey of past experiences.  To say that another
 way, according to CBR,
 
 + _humans  don't think,  they remember._
 
-[^kol]: Janet Kolodner. 1993. Case-Based
+- Janet Kolodner. 1993. Case-Based
 Reasoning. Morgan Kaufmann Publishers Inc., San
 Francisco, CA, USA.
-
-[^shank77]: Schank, Roger C., and Robert
+-  Schank, Roger C., and Robert
 P. Abelson. Scripts, plans, goals, and
 understanding: An inquiry into human knowledge
 structures. Psychology Press, 2013.
@@ -602,9 +600,9 @@ But actually it very simple.
 
 #### Example Effort Data
 
-The is the very famous Albrecht[^albrecht] data set.
+The is the very famous Albrecht data set.
 
-[^albrecht]: A. Albrecht and J. Gaffney, "Software
+- A. Albrecht and J. Gaffney, "Software
 Function, Source Lines of Code, and Development
 Effort Prediction: A Software Science Validation",
 IEEE Transactions on Software Engineering
@@ -682,13 +680,13 @@ with respect to their depdendent variables.
 
 (Aside, do you buy that assumption?)
 
-The standard distance function comes from David Aha, 1991[^aha]
+The standard distance function comes from David Aha, 1991
 and it uses a Euclidean measure. Given to rows X and Y
 then the distance between the "_N_"  _independent variables_ is
 
      d(x,y) = sqrt(sum( (x<sub>i - y<sub>i)<sup>2</sup )) / sqrt(N)
 
-[^aha]: D.Aha, D. Kibler, and M. Albert, 1991,
+-  D.Aha, D. Kibler, and M. Albert, 1991,
 "Instance-Based Learning Algorithm", Machine
 Learning} 6:37-66.
 
@@ -932,4 +930,3 @@ to know that some users are just not
 ready for the truth about the inherent uncertainties in their environment. For such
 users, we advise  patience and gentle tutoring.
 
-## References
