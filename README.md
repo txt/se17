@@ -74,9 +74,9 @@ Planning:
 <li>
 Analysis:
 <a href="doc/60notations.md">notations</a>
-| <a href="doc/20mystery.md">mystery</a>
 | <a href="doc/30architectures.md">architecture</a>
 | <a href="doc/35patterns.md">patterns</a>
+| <a href="https://arxiv.org/pdf/1701.07950.pdf">config</a>
 | <a href="doc/genderMagFse16.pptx">assess</a>
 <li>
 Coding:
