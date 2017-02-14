@@ -9,7 +9,6 @@ _______
 
 
 
-
 # Patterns and Anti-Patterns (a.k.a. "Bad Smells")
 
 
