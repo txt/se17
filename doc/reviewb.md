@@ -27,11 +27,14 @@ _______
 1.    Spiral models
        - What is the commit partition?
        - How is spriral connected to waterfall?
-      - How is spirlca connected to waterfall.
+      - How is the spiral model _different_ to waterfall model?
+      - How is the spiral model _the same_ as the waterfall model?
 2.    When spiral model should not be practiced? Explain.
 3.    Facebook ships many small  changes , very often.
       -  Which kind of s/w strategy method this is? 
-      -  Describe one advantage and oen disadvantage of this approach.
+4.    What are the phases of Test Driven Development cycle?
+      -  List and explain three advantages of Test Driven Development?
+      -  List and explain three disadvantages of Test Driven Development?
 
 ## Effort estimation
 
@@ -87,4 +90,14 @@ centralized site. If needed, you may assume that the system has 100,000 lines of
  
 ## Requirements
 
-1.   A client has asked you to develop a word processor. Write two non functional requirements for this scenario
+![](http://www.isa.us.es/sites/www.isa.us.es.featuremodelanalysis/files/images/MobilePhone.png)
+
+1.   Consider the above feature model of a mobile phone. What features are allowed and forbidden in this diagram?
+2.   Consider the design of a car. Every car has a body, transmission, and engine. 
+     A car does not necessarily have a trailer. The engine may be powered with gasoline or with electricity or with both. Draw a feature model for car.
+2.   A client has asked you to develop a word processor. 
+     - Write two non functional requirements for this scenario.
+       For each, list factors that make them easier or harder to fill
+     - List two functional requirements
+       For each, list factors that make them easier or harder to fill
+
