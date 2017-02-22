@@ -24,8 +24,9 @@ ________________
         
 4)    What are the arguments for and against pushing small codes to review?
 
+______________________________________________
  
- ## Visual Notations for Programming:
+  ##Visual Notations for Programming:
  
 5)    Write two advantages of state chart. 
 
