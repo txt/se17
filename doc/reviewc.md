@@ -25,10 +25,11 @@ ________________
  
  ## Visual Notations for Programming:
  
-7)    Write two advantages of state chart. 
-8 )        When state chart is not recommended?
+5)    Write two advantages of state chart. 
 
-9 )       Draw a state chart for the following states and transitions:
+6)        When state chart is not recommended?
+
+7 )       Draw a state chart for the following states and transitions:
 struct transition state_transitions [] = {
 {entry, ok, foo},
 {entry, fail, end},
@@ -40,16 +41,16 @@ struct transition state_transitions [] = {
 {bar, repeat, foo}};
   
 
-11)Write three differences between SQL and No-SQL.
+8)Write three differences between SQL and No-SQL.
 
-12)    Suppose you have three tables in database: University, Subject and Student. What are insert, update and delete anomalies in this context?
+9)    Suppose you have three tables in database: University, Subject and Student. What are insert, update and delete anomalies in this context?
 
-13)    How ER based model solves different anomalies for the above scenario? Explain.
+10)    How ER based model solves different anomalies for the above scenario? Explain.
 
-14)    Why doe some people claim ER is not suitable for agile development?
+11)    Why doe some people claim ER is not suitable for agile development?
 
-15)    What state chart and ER based models have in common?
+12)    What state chart and ER based models have in common?
 
-16)    What is compartmental model? Give a small example of using this model for a grocery shop supply chain from warehouse to supermarket shelves.
+13)    What is compartmental model? Give a small example of using this model for a grocery shop supply chain from warehouse to supermarket shelves.
 
-17)    What are the limitations of compartmental model?
+14)    What are the limitations of compartmental model?
