@@ -15,15 +15,19 @@ ________________
       - Requirements engineering is a waste of time
 
 2)    What is commit partition? What is commit partition strategy in spiral model?
+
 3)    Defend the following statemetns
         - Resue is the key to productivity
         - Reuse is dangerous 
+        
 4)    What are the arguments for and against pushing small codes to review?
+
  
  ## Visual Notations for Programming:
  
 7)    Write two advantages of state chart. 
 8 )        When state chart is not recommended?
+
 9 )       Draw a state chart for the following states and transitions:
 struct transition state_transitions [] = {
 {entry, ok, foo},
@@ -37,9 +41,15 @@ struct transition state_transitions [] = {
   
 
 11)Write three differences between SQL and No-SQL.
+
 12)    Suppose you have three tables in database: University, Subject and Student. What are insert, update and delete anomalies in this context?
+
 13)    How ER based model solves different anomalies for the above scenario? Explain.
+
 14)    Why doe some people claim ER is not suitable for agile development?
+
 15)    What state chart and ER based models have in common?
+
 16)    What is compartmental model? Give a small example of using this model for a grocery shop supply chain from warehouse to supermarket shelves.
+
 17)    What are the limitations of compartmental model?
