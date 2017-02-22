@@ -11,13 +11,13 @@ ________________
 ## Requirement Analysis:
 
 1)   Defend the following statements
-       - Before building any softare, it is wise to spend much time colelcting details requirements docs.
+       - Before building any software, it is wise to spend much time collecting details requirements docs.
       - Requirements engineering is a waste of time
 
 2)    What is commit partition? What is commit partition strategy in spiral model?
 
 3)    Defend the following statemetns
-        - Resue is the key to productivity
+        - Reuse is the key to productivity
         - Reuse is dangerous 
         
 4)    What are the arguments for and against pushing small codes to review?
@@ -27,9 +27,9 @@ ________________
  
 5)    Write two advantages of state chart. 
 
-6)        When state chart is not recommended?
+6)  When state chart is not recommended?
 
-7 )       Draw a state chart for the following states and transitions:
+7 )  Draw a state chart for the following states and transitions:
 struct transition state_transitions [] = {
 {entry, ok, foo},
 {entry, fail, end},
@@ -41,7 +41,7 @@ struct transition state_transitions [] = {
 {bar, repeat, foo}};
   
 
-8)Write three differences between SQL and No-SQL.
+8) Write three differences between SQL and No-SQL.
 
 9)    Suppose you have three tables in database: University, Subject and Student. What are insert, update and delete anomalies in this context?
 
