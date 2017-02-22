@@ -11,7 +11,9 @@ ________________
 ## Requirement Analysis:
 
 1)   Defend the following statements
+
        - Before building any software, it is wise to spend much time collecting details requirements docs.
+       
       - Requirements engineering is a waste of time
 
 2)    What is commit partition? What is commit partition strategy in spiral model?
