@@ -11,12 +11,12 @@ ________________
 ## Requirement Analysis:
 
 - Defend the following statements
-       - Before building any software, it is wise to spend much time collecting details requirements docs.
+      - Before building any software, it is wise to spend much time collecting details requirements docs.
       - Requirements engineering is a waste of time
 - What is commit partition? What is commit partition strategy in spiral model?
 - Defend the following statemetns
-        - Reuse is the key to productivity
-        - Reuse is dangerous 
+      - Reuse is the key to productivity
+      - Reuse is dangerous 
 - What are the arguments for and against pushing small codes to review?
 ______________________________________________
  
