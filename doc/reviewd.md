@@ -37,5 +37,5 @@ ________________
 7. In Windows
     machine if you open one folder in two different views, rename folder in
     one view automatically renames the other.
-         - What type of architecture is this?  
-         - Describe different components of this architecture with respect to the above example.
+       - What type of architecture is this?  
+       - Describe different components of this architecture with respect to the above example.
