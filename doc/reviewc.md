@@ -10,29 +10,23 @@ ________________
 
 ## Requirement Analysis:
 
-1)   Defend the following statements
-
+- Defend the following statements
        - Before building any software, it is wise to spend much time collecting details requirements docs.
-       
       - Requirements engineering is a waste of time
-
-2)    What is commit partition? What is commit partition strategy in spiral model?
-
-3)    Defend the following statemetns
+- What is commit partition? What is commit partition strategy in spiral model?
+- Defend the following statemetns
         - Reuse is the key to productivity
         - Reuse is dangerous 
-        
-4)    What are the arguments for and against pushing small codes to review?
-
+- What are the arguments for and against pushing small codes to review?
 ______________________________________________
  
-  ##Visual Notations for Programming:
+## Visual Notations for Programming:
  
-5)    Write two advantages of state chart. 
+- Write two advantages of state chart. 
+- When state chart is not recommended?
+- Draw a state chart for the following states and transitions:
 
-6)  When state chart is not recommended?
-
-7 )  Draw a state chart for the following states and transitions:
+```
 struct transition state_transitions [] = {
 {entry, ok, foo},
 {entry, fail, end},
@@ -42,18 +36,12 @@ struct transition state_transitions [] = {
 {bar, ok, end},
 {bar, fail, end},
 {bar, repeat, foo}};
-  
+```  
 
-8) Write three differences between SQL and No-SQL.
-
-9)    Suppose you have three tables in database: University, Subject and Student. What are insert, update and delete anomalies in this context?
-
-10)    How ER based model solves different anomalies for the above scenario? Explain.
-
-11)    Why doe some people claim ER is not suitable for agile development?
-
-12)    What state chart and ER based models have in common?
-
-13)    What is compartmental model? Give a small example of using this model for a grocery shop supply chain from warehouse to supermarket shelves.
-
-14)    What are the limitations of compartmental model?
+- Write three differences between SQL and No-SQL.
+- Suppose you have three tables in database: University, Subject and Student. What are insert, update and delete anomalies in this context?
+- How ER based model solves different anomalies for the above scenario? Explain.
+- Why doe some people claim ER is not suitable for agile development?
+-  What state chart and ER based models have in common?
+- What is compartmental model? Give a small example of using this model for a grocery shop supply chain from warehouse to supermarket shelves.
+- What are the limitations of compartmental model?
