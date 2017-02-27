@@ -18,7 +18,8 @@ ________________
       - Reuse is the key to productivity
       - Reuse is dangerous 
 - What are the arguments for and against pushing small codes to review?
-______________________________________________
+
+______
  
 ## Visual Notations for Programming:
  
