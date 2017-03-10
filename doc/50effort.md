@@ -187,7 +187,7 @@ about it (2009): 381-404.
 - Productivity via social engineering
 - Developers compete to get their new feature mature enough
   to add into existing platform.
-- The "wining"
+- The "winning"
   developers are rewarded (financially at annual review time,
   with promotions) if their features make it in.
 - Note: bad idea unless all new features are rigorously screened
@@ -240,7 +240,7 @@ Three important features:
 
 Note that Spiral assumes developers want to "spiral"
 which in turn means that projects can be canceled without
-developers losing income. E.g. more projects that coders
+developers losing income. E.g. more projects than coders
 and if this one goes, they can jump to that one
 
 + Hard to go Spiral if you work for an external software
