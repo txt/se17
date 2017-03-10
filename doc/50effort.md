@@ -148,7 +148,7 @@ Strategies
 
 Tactics (so many; here's a sample):
 
-- _Parametric_ : fit to an pre-guest distribution;
+- _Parametric_ : fit to a pre-guest distribution;
                  e.g. COCOMO
 - _Case-Based Reasoning_ : new estimates are variations of old
               (but similar examples)
