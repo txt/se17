@@ -142,7 +142,7 @@ Strategies
    active learning)
 - _Lie_ : invent some nonsense number to make your
   manager happy
-- _Don't estimate_ : the #noestiamtion camp.
+- _Don't estimate_ : the #noestimation camp.
   But really they do estimate (but more with _many bangs_
   and not just  _Big Bang_).
 
