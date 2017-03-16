@@ -81,9 +81,9 @@ Analysis:
 <li>
 Coding:
 <a href="github.md">github</a>
+| <a href="doc/31sql.md">databases</a>
 | <a href="doc/langauges.md">languages</a>
 | <a href="doc/45closures.md">closures</a>
-| <a href="doc/31sql.md">databases</a>
 | <a href="https://arxiv.org/abs/1609.03614">bad smells</a>
 <li>
 Testing:
