@@ -142,13 +142,13 @@ Strategies
    active learning)
 - _Lie_ : invent some nonsense number to make your
   manager happy
-- _Don't estimate_ : the #noestiamtion camp.
+- _Don't estimate_ : the #noestimation camp.
   But really they do estimate (but more with _many bangs_
   and not just  _Big Bang_).
 
 Tactics (so many; here's a sample):
 
-- _Parametric_ : fit to an pre-guest distribution;
+- _Parametric_ : fit to a pre-guest distribution;
                  e.g. COCOMO
 - _Case-Based Reasoning_ : new estimates are variations of old
               (but similar examples)
@@ -187,7 +187,7 @@ about it (2009): 381-404.
 - Productivity via social engineering
 - Developers compete to get their new feature mature enough
   to add into existing platform.
-- The "wining"
+- The "winning"
   developers are rewarded (financially at annual review time,
   with promotions) if their features make it in.
 - Note: bad idea unless all new features are rigorously screened
@@ -240,7 +240,7 @@ Three important features:
 
 Note that Spiral assumes developers want to "spiral"
 which in turn means that projects can be canceled without
-developers losing income. E.g. more projects that coders
+developers losing income. E.g. more projects than coders
 and if this one goes, they can jump to that one
 
 + Hard to go Spiral if you work for an external software
