@@ -40,7 +40,7 @@ Languages, sorted by tags (in Stackoverflow.com) and lines changed (in Gitbuf)
 
 What language will you use next? From
 [Empirical Analysis of Programming Language Adoption
-Leo A. Meyerovich Ariel Rabkin, OOPSLA 2013](http://www.eecs.berkeley.edu/~lmeyerov/projects/socioplt/papers/oopsla2013.pdf):
+Leo A. Meyerovich Ariel Rabkin, OOPSLA 2013](http://sns.cs.princeton.edu/docs/asr-oopsla13.pdf)
 
 ![](http://unbox.org/open/trunk/310/14/spring/doc/img/whatsnext.png)
 
