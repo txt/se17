@@ -7,8 +7,71 @@
 
 _______
 
+# The Sapir-Whorf Hypothesis 
 
-# Programming Languages = Maths
+From wikipedia:
+- The principle of linguistic relativity holds that the structure of a language affects its speakers' world view or cognition. 
+- Popularly known as the Sapir–Whorf hypothesis, or Whorfianism, the principle is often defined to include two versions. The strong version says that language determines thought, and that linguistic categories limit and determine cognitive categories, whereas the weak version says that linguistic categories and usage only influence thought and decisions.
+
+
+Prevelant in computer language design:
+
+- APL programming language originator Kenneth E. Iverson believed that the Sapir–Whorf hypothesis applied to computer languages (without actually mentioning it by name). His Turing award lecture, "Notation as a tool of thought", was devoted to this theme, arguing that more powerful notations aided thinking about computer algorithms.]
+- The essays of Paul Graham explore similar themes, such as a conceptual hierarchy of computer languages, with more expressive and succinct languages at the top. TSts Graham,
+writing in some language means thinking in that language. 
+ -In a 2003 presentation at an open source convention, Yukihiro Matsumoto, creator of the programming language Ruby, said that one of his inspirations for developing the language was the science fiction novel Babel-17, based on the Sapir–Whorf Hypothesis.
+
+So, do some programming languages make us inherently better programmers?
+
+# So Many Languages
+
+New Repos in Github:
+
+
+![](200~http://ledeprogram.com/wp-content/uploads/2015/11/tumblr_inline_ntur8wickr1tyf03k_1280.png)
+
+How to understand them all? Which is best?
+
+## Hint0: What every language you think is best, you will change your mind
+
+Languages, sorted by tags (in Stackoverflow.com) and lines changed (in Gitbuf)
+
++ http://langpop.corger.nl
+
+What language will you use next? From
+[Empirical Analysis of Programming Language Adoption
+Leo A. Meyerovich Ariel Rabkin, OOPSLA 2013](http://www.eecs.berkeley.edu/~lmeyerov/projects/socioplt/papers/oopsla2013.pdf):
+
+![](http://unbox.org/open/trunk/310/14/spring/doc/img/whatsnext.png)
+
+_
+## Hint1: They dont matter as much as we thought
+
+
+A [study](http://macbeth.cs.ucdavis.edu/lang_study.pdf) conducted by computer scientists from UC Davis attempts to settle a long-term debate among developers: does the choice of a programming language impact code quality in a given project? The answer, according to the researchers, is yes, but that impact is very small.
+
+The paper, titled "A Large Scale Study of Programming Languages and Code Quality in Github," analyzed 729 GitHub projects written in 17 different languages with 80 million lines of code and 1.5 million commits. They found that C, C++, JavaScript, Objective-C, PHP and Python tended to have slightly more errors than average, while Clojure, Haskell, Ruby, Scala and TypeScript were less likely than average to have bugs.
+
+However, the report authors caution that the impact of the language choice was "quite small." Other factors, such as the size of the project and the size of the team, had a much bigger impact on code quality.
+
+## Hint2: Most important software component: Peopleware
+
+What determines pace of new code? Great new languages? Or how effective are the programmers?
+
+Clearly both matter. But programmer effectiveness and ability to work in a team is surprisingly
+important. The following notes come from
+[https://arxiv.org/pdf/1702.07735.pdf](https://arxiv.org/pdf/1702.07735.pdf):
+
+- Consider the systems studied in that paper (see Fig1).
+- Consider the goal of predicting how long it takes to close an issue. What factors
+  do you think might be important in achieving that goal? **Write them down.**
+- Now look at Table II and ithe oines that were actually used in different data sets
+  (see Tablv V). **How many of your features were not used here?**
+- Look at the decision trees that decide when an issue is going to close (see Fig3).
+  **What is missing from these trees?** (hint: see above)
+
+
+## Hint3: So many ``different'' and ``new'' languages, aren't
 
 Programmers are mostly unaware
 that that their programs (they use every day) are surrounded by structures.
@@ -57,15 +120,6 @@ the language usable:
 + Watch dogs that raise alerts if you do something
   wrong.
  
-(By the way- its not _just_ syntactic sugar since
-some "sugar" actual enables the clear expression of
-ideas that would otherwise be too long to write down
-or [too slow to run](http://unbox.org/open/trunk/310/13/fall/doc/96koller.html). Also, the watch dogs
-can only report problems if they know
-what a problem is- which means they
-have to understand the purpose and limits of
-the underlying maths.)
-
 The maths defines what can be done, and what cannot
 be done in that language. Such maths includes:
 
@@ -82,35 +136,7 @@ And underneath that maths is another layer of uber maths
 ([Turing machine](http://en.wikipedia.org/wiki/Turing_machine))
  that defines the ultimate limits of all the above. 
 
-![](http://dberkholz-media.redmonk.com/dberkholz/files/2014/04/github_new_repos-custom.png)
-
-i## tudy: Language Choice Has Only a Small Impact on Code Quality
-
-
-A [study](http://macbeth.cs.ucdavis.edu/lang_study.pdf) conducted by computer scientists from UC Davis attempts to settle a long-term debate among developers: does the choice of a programming language impact code quality in a given project? The answer, according to the researchers, is yes, but that impact is very small.
-
-The paper, titled "A Large Scale Study of Programming Languages and Code Quality in Github," analyzed 729 GitHub projects written in 17 different languages with 80 million lines of code and 1.5 million commits. They found that C, C++, JavaScript, Objective-C, PHP and Python tended to have slightly more errors than average, while Clojure, Haskell, Ruby, Scala and TypeScript were less likely than average to have bugs.
-
-However, the report authors caution that the impact of the language choice was "quite small." Other factors, such as the size of the project and the size of the team, had a much bigger impact on code quality.
-
-
-From the (in)famous [Tiobe index](http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html):
-
-![](http://unbox.org/open/trunk/310/14/spring/doc/img/tiobe14.gif)
-
-Languages, sorted by tags (in Stackoverflow.com) and lines changed (in Gitbuf)
-
-+ http://langpop.corger.nl
-
-What language will you use next? From
-[Empirical Analysis of Programming Language Adoption
-Leo A. Meyerovich Ariel Rabkin, OOPSLA 2013](http://www.eecs.berkeley.edu/~lmeyerov/projects/socioplt/papers/oopsla2013.pdf):
-
-![](http://unbox.org/open/trunk/310/14/spring/doc/img/whatsnext.png)
-
-["Learn Python" Overtakes "Learn Java" on Google Trends](https://dzone.com/articles/learn-python-overtakes-learn-java)
-
-__
+_
 
 # My Favorite Langauge
 
