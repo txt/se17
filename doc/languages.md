@@ -71,7 +71,7 @@ important. The following notes come from
   **What is missing from these trees?** (hint: see above)
 
 
-## Hint3: So many ``different'' and ``new'' languages, aren't
+## Hint3: So many `different' and `new' languages, aren't
 
 Programmers are mostly unaware
 that that their programs (they use every day) are surrounded by structures.
@@ -103,7 +103,7 @@ Don't believe it? Well consider this:
   + Any functional programmer uses McCarthy's 1960 memo on
   [Recursive Functions of Symbolic Expressions](http://www-formal.stanford.edu/jmc/recursive/recursive.html) 
   (which is slightly easier to read in 
-  [Paul Graham's version](http://lib.store.yahoo.net/lib/paulgraham/jmc.ps) 
+  [Paul Graham's version](http://languagelog.ldc.upenn.edu/myl/llog/jmc.pdf)
   or in [Peter Norvig's lispy code](http://norvig.com/lispy.html). 
 + Logic programmers literally program in mathematical logic.
 + If you use the _make_ tool, it find the _dependencies_ in your files
@@ -136,10 +136,13 @@ And underneath that maths is another layer of uber maths
 ([Turing machine](http://en.wikipedia.org/wiki/Turing_machine))
  that defines the ultimate limits of all the above. 
 
-_
+____
 
-# My Favorite Langauge
 
+
+# My Favorite Langauge: LUA
+
+Still, you can't help having favoriters
 
 Lua
 
@@ -165,35 +168,3 @@ local function f(n)
 end
 ```
 
-C isn’t that hard: void (*(*f[])())() defines f as an array of unspecified size, of pointers to functions that return pointers to functions that return void.
-
-
-Why Pinterest just open-sourced new tools for the Elixir programming language
-http://venturebeat.com/2015/12/18/pinterest-elixir/
-
-
-https://h3rald.com/articles/10-programming-languages/
-
-- Haskell
-- Erlang
-- Io
-- PLT scheme
-- Clojure
-- Spueak
-- OCaml
-- Factor
-- Lua
-- Scala
-- CoffeeScript: JavaScript made clean and simple
-- Julia: Bringing speed to Python land
-- Scala: Functional programming on the JVM
-
-THe JVM.
-
-<center>
-<img
-width=750
-src="http://www.thesoftwareguild.com/wp-content/uploads/Programming-Languages-Infographic.jpg">
-</center>
-
-[](https://dzone.com/storage/temp/840751-learn-java-python.png)
