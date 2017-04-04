@@ -87,7 +87,7 @@ Coding:
 | <a href="https://arxiv.org/abs/1609.03614">bad smells</a>
 <li>
 Testing:
-<a href="doc/80functionalTesting.pdf">functional</a>
+<a href="doc/80FunctionalTesting.pdf">functional</a>
 | <a href="doc/81test.md">heuristics</a>
 
 <li>Frontiers of SE:
