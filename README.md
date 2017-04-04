@@ -116,6 +116,8 @@ Testing:
 </td>
 <td align=center valign=top  xwidth="100px">
 
+<a href="https://docs.google.com/spreadsheets/d/1Y28RZjp7FDWu7Q7gwEhHsI-1tiRxj2xcW89_CaLU8bQ/edit?usp=sharing">mathsBlackBox</a><br>
+<a href="http://tiny.cc/nsf17">BugsClump:17,18</a><br>
 <a href="https://www.youtube.com/watch?v=2B-XwPjn9YY">1stMacDemo</a><br>
 <a href="https://www.youtube.com/watch?v=XiJA7_Sw9aM">BestDemoEver</a><br>
 <a href="https://www.youtube.com/watch?v=wwoWei-GAPo">Go!</a><br>
