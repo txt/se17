@@ -100,7 +100,7 @@ Testing:
 <!-- -------------------------------- -->
 
 </td><td align=center valign=top xwidth="100px">
-<a href="doc/proj2.md">Project2</a><br>
+<a href="doc/proj2.md">7. Project2</a><br>
 <a href="https://goo.gl/wGmoXe">6. MT Notes</a><br>
 <a href="img/usingMT.pdf">5. Using MT</a><br>
 <a href="https://github.com/cleebp/csc-510-group-g/blob/master/apr1/report/report.pdf">4. Clipit</a><br>
