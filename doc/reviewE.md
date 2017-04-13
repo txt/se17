@@ -8,7 +8,11 @@
 ________________
 # Review Ques 5
 
-1. What are logical language? What are predicate and argument in logical language? Give 2 examples
+1. As precisely as you can (two lines each, at most), define the following.  Your definition should mention inputs,outputs and side-effects:
+    - functions
+    - predictes
+2. If, in a purely logical language what
+What are logical language? What are predicate and argument in logical language? Give 2 examples
  2. What is a functional language? Describe 2 properties of such language.
  3.What is a closure?
  4.What is type inference?
