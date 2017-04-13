@@ -16,7 +16,19 @@ ________________
     - emp(Who,42)  =  emp(tom, Age)
     - emp(tom,42) = emp(tim,Age)
 What are logical language? What are predicate and argument in logical language? Give 2 examples
-3. What is a closure?
+3. Define "closures"? In the following, where is the closure?
+
+var add = (function () {
+    var counter = 0;
+    return function () {return counter += 1;}
+})();
+
+add();
+add();
+add();
+
+// the counter is now 3
+ 
  4.What is type inference?
  5. What is folding?
  6.Erlag: 
