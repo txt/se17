@@ -11,10 +11,12 @@ ________________
 1. As precisely as you can (two lines each, at most), define the following.  Your definition should mention inputs,outputs and side-effects:
     - functions
     - predictes
-2. If, in a purely logical language what
+2. If, in a purely logical language what are the outputs and side-effects of the following:
+    - emp(tim,42) = emp(Name,Age)
+    - emp(Who,42)  =  emp(tom, Age)
+    - emp(tom,42) = emp(tim,Age)
 What are logical language? What are predicate and argument in logical language? Give 2 examples
- 2. What is a functional language? Describe 2 properties of such language.
- 3.What is a closure?
+3. What is a closure?
  4.What is type inference?
  5. What is folding?
  6.Erlag: 
