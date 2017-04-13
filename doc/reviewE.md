@@ -16,9 +16,10 @@ ________________
     - emp(Who,42)  =  emp(tom, Age)
     - emp(tom,42) = emp(tim,Age)
 What are logical language? What are predicate and argument in logical language? Give 2 examples
-3. Define "closures"? In the following, where is the closure?
+3. Define "closures"? In the following, when the `add` variable is initialized, what are the two parts of it contents?
 
-var add = (function () {
+```
+ add = (function () {
     var counter = 0;
     return function () {return counter += 1;}
 })();
@@ -26,8 +27,11 @@ var add = (function () {
 add();
 add();
 add();
-
-// the counter is now 3
+```
+When the above `add` is created, then used 3 times, what is returns?
+    - a nil pointer error?
+// the counter is now 4
+```
  
  4.What is type inference?
  5. What is folding?
