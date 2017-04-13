@@ -28,8 +28,8 @@ add();
 add();
 add();
 ```
-When the above `add` is created, then used 3 times, what is returns?
-    - a nil pointer error?
+When the above `add` is created, then used 3 times, what is returns?             
+    - a nil pointer error? sdfsdffds
 // the counter is now 4
 ```
  
