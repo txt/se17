@@ -45,5 +45,5 @@ add();
      - what is YAGNI? Describe an industrial scenario where YAGNI might save development costs.
      - what is the  rule of 3? Describe an industrial scenario where YAGNI might save development costs.
 8. Patterns: Suppose you are working with a 3-tier architecture system for employee management. The system composed of  a database layer, business logic, and GUI. Many parts of codes are reused in this system. As an example: the database needs to know the valid ranges for `age` and so does the GUI.
-- What design pattern might be useful for the  business logic associated with this application? Give reasoning on behalf of your answer.
+     - What design pattern might be useful for the  business logic associated with this application? Give reasoning on behalf of your answer.
 
