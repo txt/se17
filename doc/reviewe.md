@@ -40,7 +40,8 @@ add();
      - What does the following expression return? _foldl (+) 0 [1,2,3,4,5]_
 6. Erlang
      - Nome one way Erlang is fundamentally different to Python.
-     - Describe uses of Erlang in 2 sectors
+     - Describe uses of Erlang in 2 industrial applications. What aspects of those applications lead to the
+       use of Erlang?
 7. Heuristics
      - what is YAGNI? Describe an industrial scenario where YAGNI might save development costs.
      - what is the  rule of 3? Describe an industrial scenario where YAGNI might save development costs.
