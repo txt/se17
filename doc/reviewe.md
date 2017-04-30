@@ -37,8 +37,8 @@ add();
      - Why might type inference be easier in Python than Java?
 5. Folding
      - What is folding?
-     - What does the following expression return? `foldl (+) 0 [1,2,3,4,5]`
-6.Erlang
+     - What does the following expression return? _foldl (+) 0 [1,2,3,4,5]_
+6. Erlang
      - Nome one way Erlang is fundamentally different to Python.
      - Describe uses of Erlang in 2 sectors
 7. Heuristics
