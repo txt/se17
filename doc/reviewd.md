@@ -25,17 +25,38 @@ ________________
          of pipe and filter
        - Explain one advantage of pipe and filter
        - Explain one dsadvantage of pipe and filter
-5. Layered architectures:
+5. CRUD:
+       - What is the CRUD pattern?
+       - Give two example where CRUD pattern is used.  
+6. In Windows
+    machine if you open one folder in two different views, rename folder in
+    one view automatically renames the other.
+       - What type of architecture is this?  
+       - Describe different components of this architecture with respect to the above example.
+7. Layered architectures:
        - What is "LAMP" and why is it an example of a layered architecture>
        - Explain one advantage of a layered architecture.
        - Explain one dsadvantage of pipe and filter
        - What is "MEAN" and why is it sometimes called a "leaky layered" architecture?
        - Why is MEAN replacing LAMP in certain fast-paced organizations?
-6. CRUD:
-       - What is the CRUD pattern?
-       - Give two example where CRUD pattern is used.  
-7. In Windows
-    machine if you open one folder in two different views, rename folder in
-    one view automatically renames the other.
-       - What type of architecture is this?  
-       - Describe different components of this architecture with respect to the above example.
+8. Architectures and Programming
+       
+       
+Consider the following functionality in Javascript, which gets the mouse cursor position upon the cursor move:
+
+
+
+```    
+       $(document).bind('mousemove', function(event) {
+       position = {'x' : event.pageX, 'y': event.pageY};
+       });
+```
+
+Now, here is the similar functionality in ELM:
+
+```
+       import Mouse
+       main = lift asText Mouse.position
+
+-        How are the different functions retrieving the mouse positions?
+-        What architecture the lift construct in the ELM program is utilizing for this functionality? Explain.

@@ -33,4 +33,15 @@ ________________
          - What are the 20:80 rule for testing? How to use that to optimize testing effort?
          - Why not just write tests for everything and run those tests all the time some change is made to the code?
          - List Google's three criteria for priotiziation test cases
-   
+11. Define all-pairs testing.
+         - A program has five boolean inputs. A test suite is proposed where 1=false 2=true 0=dontcare. 
+	   Do the follow tests satisfy the all-pairs requirement?
+
+```
+((2 2 1 1 1)
+(2 1 2 2 2)
+(1 2 2 1 2)
+(1 1 1 2 1)
+(0 2 2 2 2)
+(0 1 1 1 2))
+```

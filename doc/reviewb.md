@@ -38,6 +38,17 @@ _______
 
 ## Effort estimation
 
+1. What is software overestimation? What are its effects on development?
+2. What is software underestimation? What are its effects on development?
+3. What is "big bang estimation"? Describe its advantages and disadvantages.
+4. How to do run software projects via "feature maturity"?
+     - What kinds of organizations are suitable for adopting this strategy?
+5. What is parametric software effort estimation?
+    - What is needed to use this kind of estimation?
+6. Explain each of the following approaches to effort estimation:
+     - Big bang?
+7. An analysts estimates the development time of a softare project, as a single value. What are the drawbacks to such a single-point estimate?
+
 ```python 
 _  = None;  Coc2tunings = [[
 #              vlow  low   nom   high  vhigh  xhigh   
@@ -70,7 +81,7 @@ _  = None;  Coc2tunings = [[
 'time',           _,    _, 1.00, 1.11, 1.29, 1.63]]
 ```
 
-1.     COCOMO is a parametric effort estimation methods
+8.     COCOMO is a parametric effort estimation methods
       - What is the central intuition of the COCOMO equation?
       - Write down the COCOMO equation (hint: it should fit in half a line)
       - What are the for "P" of the COCOMO attributes? Give one example of each "P"
@@ -78,16 +89,24 @@ _  = None;  Coc2tunings = [[
       - In COCOMO co-effecients are shown above, what is `cplx` ? What happens to project development effort when it is increased? Why?
       - From the above parameters, find how much faster a fully distributed system compared to a fully
 centralized site. If needed, you may assume that the system has 100,000 lines of code.
-2.    What is delphi based method? 
+9.    What is delphi based method? 
        - Why use it instead of COCOMO?
-3.    "Planning poker" is  strategy is suitable for group discussion effort estimation environment
+10.    "Planning poker" is  strategy is suitable for group discussion effort estimation environment
       -  Describe this approach plus one advantage and one disadvantage of using this method.
-4.    What is no estimate method? When might it be s necessary? 
-5.    Case base reasoning is called a non-parametric method.
+11.    What is no estimate method? When might it be s necessary? 
+12.    Case base reasoning is called a non-parametric method.
       - Why? Hint: your answer will have to describe how it works
       - Give  2 advantages and disadvantages of CBR.
- 
- 
+      - Given the following project data, what estimate would case-based reasoning assign to the last row? Note that the words
+        in t
+
+|analyst capability|multi-site development |use of tools| product complexity| khours(estimate)|
+|--|-|-|--|---|
+|5   | 1|    5   | 1|    100|
+|1   | 5 |   5  |  5 |   800|
+|3  |  3  |  3 |   3  |  500|
+|2 |   5   | 3|    5   | ?|
+
 ## Requirements
 
 ![](http://www.isa.us.es/sites/www.isa.us.es.featuremodelanalysis/files/images/MobilePhone.png)

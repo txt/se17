@@ -19,7 +19,6 @@ ________________
 7. A body has several limbs. Limbs have extremities (hands or feed).  Extremeties contain toes or fingers. 
    -  Which design pattern is similar to this structure?
    - Briefly describe the components of that design pattern.
-  
 
 ## Anti patterns:
 

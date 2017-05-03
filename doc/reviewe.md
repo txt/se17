@@ -22,6 +22,7 @@ ________________
     -  Define "closures"?
     - In the following, when the `add` variable is initialized, what are the two parts of it contents?
     - In the following, When the above `add` is created, then used 3 times, what is returns?             
+
 ```
  add = (function () {
     var counter = 0;
