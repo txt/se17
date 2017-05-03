@@ -58,5 +58,5 @@ Now, here is the similar functionality in ELM:
        import Mouse
        main = lift asText Mouse.position
 
--        How are the different functions retrieving the mouse positions?
--        What architecture the lift construct in the ELM program is utilizing for this functionality? Explain.
+-  How are the different functions retrieving the mouse positions?
+-  What architecture the lift construct in the ELM program is utilizing for this functionality? Explain.
