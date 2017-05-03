@@ -81,7 +81,7 @@ _  = None;  Coc2tunings = [[
 'time',           _,    _, 1.00, 1.11, 1.29, 1.63]]
 ```
 
-8.     COCOMO is a parametric effort estimation methods
+8. COCOMO is a parametric effort estimation methods
       - What is the central intuition of the COCOMO equation?
       - Write down the COCOMO equation (hint: it should fit in half a line)
       - What are the for "P" of the COCOMO attributes? Give one example of each "P"
